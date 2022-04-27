@@ -1,0 +1,47 @@
+{
+    "product": [
+        {
+          "id": 1,
+          "productName": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "brand": "Converse",
+          "status": "Available",
+          "price": 200,
+          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+          "insurance": "12 months",
+          "image": "./Images/product1.jpg",
+          "origin": "USA",
+          "material": "Silk"
+        },
+    ],
+    "user": [
+        {
+            "id": "user01",
+            "firstname": "Nguyễn Văn ",
+            "lastname": "A",
+            "role": "customer",
+            "password": "111111",
+            "email": "admin@gmail.com",
+            "phonenumber": "0123456789",
+        },
+        {
+            "id": "user02",
+            "firstname": "Nguyễn Văn ",
+            "lastname": "B",
+            "role": "customer",
+            "password": "111111",
+            "email": "admin@gmail.com",
+            "phonenumber": "0123456789",
+        }
+    ]
+}
+
+
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}
