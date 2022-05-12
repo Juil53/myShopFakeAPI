@@ -21,7 +21,8 @@
           "price_after_discount": 200000,
           "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
           "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
-          "quantity":"100"
+          "quantity":"100",
+          "is_hot":true
         },{
             "id": "product02",
             "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
@@ -190,10 +191,18 @@
             "products":[
                 {
                     "id":"product01",
-                    "quantity":1
+                    "quantity":1,
+                    "name":"Giày tây nâu đỏ thương hiệu Converse All Star",
+                    "image":"https://i.ibb.co/Cw1fNbx/sp1.png",
+                    "price_before_discount": 400000, 
+                    "price_after_discount": 200000
                 },{
                     "id":"product02",
-                    "quantity":2
+                    "quantity":2,
+                    "name":"Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+                    "image":"https://i.ibb.co/Bzps9yB/sp2.png",
+                    "price_before_discount": 200000, 
+                    "price_after_discount": 200000
                 }
             ],
             "user_id":"user01"
@@ -202,16 +211,33 @@
             "products":[
                 {
                     "id":"product03",
-                    "quantity":1
+                    "quantity":1,
+                    "name":"Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
+                    "image":"https://i.ibb.co/QjjdqgR/sp3.png",
+                    "price_before_discount": 100000, 
+                    "price_after_discount": 80000
                 },{
                     "id":"product02",
-                    "quantity":1
+                    "quantity":1,
+                    "name":"Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+                    "image":"https://i.ibb.co/Bzps9yB/sp2.png",
+                    "price_before_discount": 200000, 
+                    "price_after_discount": 200000
                 },{
                     "id":"product01",
-                    "quantity":1
+                    "quantity":1,
+                    "name":"Giày tây nâu đỏ thương hiệu Converse All Star",
+                    "image":"https://i.ibb.co/Cw1fNbx/sp1.png",
+                    "price_before_discount": 400000, 
+                    "price_after_discount": 200000
                 }
             ],
             "user_id":"user02"
+        }
+    ],
+    "order":[
+        {
+
         }
     ]
 }
