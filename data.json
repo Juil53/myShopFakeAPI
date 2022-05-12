@@ -27,135 +27,120 @@
           "price_after_discount": 200000,
           "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
           "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
-          "quantity": "100"
-        },
-        {
-          "id": "product02",
-          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "brand": "Giày cao cấp",
-          "attributes": [
-            {
-              "name": "Insurance",
-              "value": "6 months"
-            },
-            {
-              "name": "Origin",
-              "value": "American"
-            },
-            {
-              "name": "material",
-              "value": "silk"
-            }
-          ],
-          "status": "Available",
-          "price_before_discount": 200000,
-          "price_after_discount": 200000,
-          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/Bzps9yB/sp2.png",
-          "quantity": "10"
-        },
-        {
-          "id": "product03",
-          "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
-          "brand": "Thương hiệu nổi tiếng Nhật Bản",
-          "attributes": [
-            {
-              "name": "Insurance",
-              "value": "12 months"
-            },
-            {
-              "name": "Origin",
-              "value": "USA"
-            },
-            {
-              "name": "material",
-              "value": "silk"
-            }
-          ],
-          "status": "Available",
-          "price_before_discount": 100000,
-          "price_after_discount": 80000,
-          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/QjjdqgR/sp3.png",
-          "quantity": "100"
-        },
-        {
-          "id": "product04",
-          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "brand": "Giày dép Nhật Tân",
-          "attributes": [
-            {
-              "name": "Insurance",
-              "value": "12 months"
-            },
-            {
-              "name": "Origin",
-              "value": "USA"
-            },
-            {
-              "name": "material",
-              "value": "silk"
-            }
-          ],
-          "status": "Available",
-          "price_before_discount": 500000,
-          "price_after_discount": 450000,
-          "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/djcQ0Zv/sp4.png",
-          "quantity": "10"
-        },
-        {
-          "id": "product05",
-          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "brand": "Giày abjdihfie",
-          "attributes": [
-            {
-              "name": "Insurance",
-              "value": "12 months"
-            },
-            {
-              "name": "Origin",
-              "value": "USA"
-            },
-            {
-              "name": "material",
-              "value": "silk"
-            }
-          ],
-          "status": "Available",
-          "price_before_discount": 300000,
-          "price_after_discount": 250000,
-          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/QjjdqgR/sp3.png",
-          "quantity": "100"
-        },
-        {
-          "id": "product06",
-          "name": "Giày đi vào thế giới cổ tích",
-          "brand": "Doraemon",
-          "attributes": [
-            {
-              "name": "Insurance",
-              "value": "12 months"
-            },
-            {
-              "name": "Origin",
-              "value": "USA"
-            },
-            {
-              "name": "material",
-              "value": "silk"
-            }
-          ],
-          "status": "Available",
-          "price_before_discount": 200000,
-          "price_after_discount": 200000,
-          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
-          "quantity": "100"
-        }
-      ],
-      "user": [
+          "quantity":"100",
+          "is_hot":true
+        },{
+            "id": "product02",
+            "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+            "brand":"Giày cao cấp",
+            "attributes":[
+              {
+                  "name": "Insurance",
+                  "value":"6 months"
+              },{
+                  "name": "Origin",
+                  "value":"American"
+              },{
+                  "name": "material",
+                  "value":"silk"
+              }
+            ],
+            "status": "Available",
+            "price_before_discount": 200000, 
+            "price_after_discount": 200000,
+            "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+            "image": "https://i.ibb.co/Bzps9yB/sp2.png",
+            "quantity":"10"
+          },{
+            "id": "product03",
+            "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
+            "brand":"Thương hiệu nổi tiếng Nhật Bản",
+            "attributes":[
+              {
+                  "name": "Insurance",
+                  "value":"12 months"
+              },{
+                  "name": "Origin",
+                  "value":"USA"
+              },{
+                  "name": "material",
+                  "value":"silk"
+              }
+            ],
+            "status": "Available",
+            "price_before_discount": 100000, 
+            "price_after_discount": 80000,
+            "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+            "image": "https://i.ibb.co/QjjdqgR/sp3.png",
+            "quantity":"100"
+          },{
+            "id": "product04",
+            "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+            "brand":"Giày dép Nhật Tân",
+            "attributes":[
+              {
+                  "name": "Insurance",
+                  "value":"12 months"
+              },{
+                  "name": "Origin",
+                  "value":"USA"
+              },{
+                  "name": "material",
+                  "value":"silk"
+              }
+            ],
+            "status": "Available",
+            "price_before_discount": 500000, 
+            "price_after_discount": 450000,
+            "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+            "image": "https://i.ibb.co/djcQ0Zv/sp4.png",
+            "quantity":"10"
+          },{
+            "id": "product05",
+            "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+            "brand":"Giày abjdihfie",
+            "attributes":[
+              {
+                  "name": "Insurance",
+                  "value":"12 months"
+              },{
+                  "name": "Origin",
+                  "value":"USA"
+              },{
+                  "name": "material",
+                  "value":"silk"
+              }
+            ],
+            "status": "Available",
+            "price_before_discount": 300000, 
+            "price_after_discount": 250000,
+            "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+            "image": "https://i.ibb.co/QjjdqgR/sp3.png",
+            "quantity":"100"
+          },{
+            "id": "product06",
+            "name": "Giày đi vào thế giới cổ tích",
+            "brand":"Doraemon",
+            "attributes":[
+              {
+                  "name": "Insurance",
+                  "value":"12 months"
+              },{
+                  "name": "Origin",
+                  "value":"USA"
+              },{
+                  "name": "material",
+                  "value":"silk"
+              }
+            ],
+            "status": "Available",
+            "price_before_discount": 200000, 
+            "price_after_discount": 200000,
+            "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+            "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+            "quantity":"100"
+          }
+    ],"user": [
         {
           "id": 1,
           "firstname": "Ulla",
@@ -2072,36 +2057,57 @@
   ],
   "cart": [
     {
-      "id": "cart_01",
-      "products": [
-        {
-          "id": "product01",
-          "quantity": 1
-        },
-        {
-          "id": "product02",
-          "quantity": 2
+            "id":"cart_01",
+            "products":[
+                {
+                    "id":"product01",
+                    "quantity":1,
+                    "name":"Giày tây nâu đỏ thương hiệu Converse All Star",
+                    "image":"https://i.ibb.co/Cw1fNbx/sp1.png",
+                    "price_before_discount": 400000, 
+                    "price_after_discount": 200000
+                },{
+                    "id":"product02",
+                    "quantity":2,
+                    "name":"Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+                    "image":"https://i.ibb.co/Bzps9yB/sp2.png",
+                    "price_before_discount": 200000, 
+                    "price_after_discount": 200000
+                }
+            ],
+            "user_id":"user01"
+        },{
+            "id":"cart_02",
+            "products":[
+                {
+                    "id":"product03",
+                    "quantity":1,
+                    "name":"Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
+                    "image":"https://i.ibb.co/QjjdqgR/sp3.png",
+                    "price_before_discount": 100000, 
+                    "price_after_discount": 80000
+                },{
+                    "id":"product02",
+                    "quantity":1,
+                    "name":"Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+                    "image":"https://i.ibb.co/Bzps9yB/sp2.png",
+                    "price_before_discount": 200000, 
+                    "price_after_discount": 200000
+                },{
+                    "id":"product01",
+                    "quantity":1,
+                    "name":"Giày tây nâu đỏ thương hiệu Converse All Star",
+                    "image":"https://i.ibb.co/Cw1fNbx/sp1.png",
+                    "price_before_discount": 400000, 
+                    "price_after_discount": 200000
+                }
+            ],
+            "user_id":"user02"
         }
-      ],
-      "user_id": "user01"
-    },
-    {
-      "id": "cart_02",
-      "products": [
+    ],
+    "order":[
         {
-          "id": "product03",
-          "quantity": 1
-        },
-        {
-          "id": "product02",
-          "quantity": 1
-        },
-        {
-          "id": "product01",
-          "quantity": 1
+
         }
-      ],
-      "user_id": "user02"
-    }
-  ]
+    ]
 }
