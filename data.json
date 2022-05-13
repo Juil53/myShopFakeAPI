@@ -18,11 +18,12 @@
           "value": "silk"
         }
       ],
+      "category": ["cate01", "sub_cate_01"],
       "status": "Available",
       "price_before_discount": 400000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
       "quantity": "100",
       "is_hot": true
     },
@@ -44,11 +45,12 @@
           "value": "silk"
         }
       ],
+      "category": ["cate01", "sub_cate_02"],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/Bzps9yB/sp2.png",
+      "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
       "quantity": "10"
     },
     {
@@ -73,7 +75,7 @@
       "price_before_discount": 100000,
       "price_after_discount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/QjjdqgR/sp3.png",
+      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
       "quantity": "100"
     },
     {
@@ -94,11 +96,12 @@
           "value": "silk"
         }
       ],
+      "category": ["cate02", "sub_cate_04"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/djcQ0Zv/sp4.png",
+      "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
       "quantity": "10"
     },
     {
@@ -119,11 +122,12 @@
           "value": "silk"
         }
       ],
+      "category": ["cate01", "sub_cate_01", "cate02", "sub_cate_04"],
       "status": "Available",
       "price_before_discount": 300000,
       "price_after_discount": 250000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/QjjdqgR/sp3.png",
+      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
       "quantity": "100"
     },
     {
@@ -144,11 +148,12 @@
           "value": "silk"
         }
       ],
+      "category": ["cate01", "sub_cate_01", "cate03", "sub_cate_05"],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
       "quantity": "100"
     },
     {
@@ -165,11 +170,144 @@
           "value": "Silk"
         }
       ],
+      "category": ["cate01", "sub_cate_01", "cate02", "sub_cate_04"],
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": "https://i.ibb.co/KN82k0g/sp7.png",
+      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
       "quantity": "15",
+      "is_hot": true
+    },
+    {
+      "id": "product08",
+      "name": "Váy trễ vai tay dài 3 tầng phối chun eo",
+      "brand": "Quảng Châu",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "China"
+        },
+        {
+          "name": "Material",
+          "value": "Coton"
+        },
+        {
+          "name": "Size",
+          "value": "Free size"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "cate03", "sub_cate_06"],
+      "price_before_discount": 500000,
+      "price_after_discount": 480000,
+      "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
+      "image": [
+        "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
+        "https://i.ibb.co/QNvrxwV/sp8.png"
+      ],
+      "quantity": "25",
+      "is_hot": true
+    },
+    {
+      "id": "product09",
+      "name": "Đầm dạ hội dự tiệc siêu sang - Mua váy dạ hội lụa siêu xinh",
+      "brand": "Hàng Việt Nam thiết kế",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Lụa vân gỗ"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "price_before_discount": 385000,
+      "price_after_discount": 370000,
+      "desc": "Chất: Lụa vân gỗ nhập cao cấp - HÀNG VN THIẾT KẾ - THỜI TRANG QC",
+      "image": [
+        "https://i.ibb.co/tcpXgMq/sp9-sub-01.png",
+        "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
+        "https://i.ibb.co/Pjp90nJ/sp9.png"
+      ],
+      "quantity": "125",
+      "is_hot": true
+    },
+    {
+      "id": "product10",
+      "name": "Quần short nữ cạp hai cúc LOZA 3 màu LQ302002",
+      "brand": "LOZA",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Tuypsi Hàn Quốc"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "price_before_discount": 85000,
+      "price_after_discount": 85000,
+      "desc": "Được coi là must have item của mùa hè, quần short luôn đem lại cảm giác mát mẻ, dễ chịu cho người mặc ",
+      "image": [
+        "https://i.ibb.co/jvNm3cg/sp10.png",
+        "https://i.ibb.co/mtbyzfG/sp10-sub-02.png",
+        "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
+      ],
+      "quantity": "125",
+      "is_hot": true
+    },
+    {
+      "id": "product11",
+      "name": "Quần đùi nam nữ unisex, Quần short sooc thể thao nam nữ Q15",
+      "brand": "No brand",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "price_before_discount": 60000,
+      "price_after_discount": 60000,
+      "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
+      "image": [
+        "https://i.ibb.co/5jxbKPd/sp11.png",
+        "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
+      ],
+      "quantity": "200",
+      "is_hot": true
+    },
+    {
+      "id": "product12",
+      "name": "Áo thun unisex tay lỡ nam nữ form rộng, áo phông cotton unisex phong cách HELLO SUMMER",
+      "brand": "Unisex",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Style",
+          "value": "Oversized"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "price_before_discount": 120000,
+      "price_after_discount": 115000,
+      "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
+      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
+      "quantity": "200",
       "is_hot": true
     }
   ],
@@ -1112,6 +1250,20 @@
           "name": "Mini dress"
         }
       ]
+    },
+    {
+      "id": "cate_04",
+      "name": "Category 4",
+      "sub_cate": [
+        {
+          "id": "sub_cate_08",
+          "name": "Sub cate 10"
+        },
+        {
+          "id": "sub_cate_09",
+          "name": "Sub cate 09"
+        }
+      ]
     }
   ],
   "cart": [
@@ -1122,7 +1274,7 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         },
@@ -1130,7 +1282,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": "https://i.ibb.co/Bzps9yB/sp2.png",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         }
@@ -1144,7 +1296,7 @@
           "id": "product03",
           "quantity": 1,
           "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
-          "image": "https://i.ibb.co/QjjdqgR/sp3.png",
+          "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
           "price_before_discount": 100000,
           "price_after_discount": 80000
         },
@@ -1152,7 +1304,7 @@
           "id": "product02",
           "quantity": 1,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": "https://i.ibb.co/Bzps9yB/sp2.png",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         },
@@ -1160,7 +1312,7 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1190,7 +1342,7 @@
         {
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1218,7 +1370,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": "https://i.ibb.co/Bzps9yB/sp2.png",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         }
@@ -1250,7 +1402,7 @@
           "price_before_discount": 400000,
           "price_after_discount": 200000,
           "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": "https://i.ibb.co/Cw1fNbx/sp1.png",
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "quantity": "100",
           "is_hot": true
         },
@@ -1271,10 +1423,142 @@
           "price_before_discount": 500000,
           "price_after_discount": 480000,
           "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-          "image": "https://i.ibb.co/KN82k0g/sp7.png",
+          "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
           "quantity": "15",
           "is_hot": true
+        },
+        {
+          "id": "product08",
+          "name": "Váy trễ vai tay dài 3 tầng phối chun eo",
+          "brand": "Quảng Châu",
+          "attributes": [
+            {
+              "name": "Origin",
+              "value": "China"
+            },
+            {
+              "name": "Material",
+              "value": "Coton"
+            },
+            {
+              "name": "Size",
+              "value": "Free size"
+            }
+          ],
+          "price_before_discount": 500000,
+          "price_after_discount": 480000,
+          "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
+          "image": [
+            "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
+            "https://i.ibb.co/QNvrxwV/sp8.png"
+          ],
+          "quantity": "25",
+          "is_hot": true
+        },
+        {
+          "id": "product09",
+          "name": "Đầm dạ hội dự tiệc siêu sang - Mua váy dạ hội lụa siêu xinh",
+          "brand": "Hàng Việt Nam thiết kế",
+          "attributes": [
+            {
+              "name": "Origin",
+              "value": "Viet Nam"
+            },
+            {
+              "name": "Material",
+              "value": "Lụa vân gỗ"
+            }
+          ],
+          "price_before_discount": 385000,
+          "price_after_discount": 370000,
+          "desc": "Chất: Lụa vân gỗ nhập cao cấp - HÀNG VN THIẾT KẾ - THỜI TRANG QC",
+          "image": [
+            "https://i.ibb.co/tcpXgMq/sp9-sub-01.png",
+            "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
+            "https://i.ibb.co/Pjp90nJ/sp9.png"
+          ],
+          "quantity": "125",
+          "is_hot": true
+        },
+        {
+          "id": "product10",
+          "name": "Quần short nữ cạp hai cúc LOZA 3 màu LQ302002",
+          "brand": "LOZA",
+          "attributes": [
+            {
+              "name": "Origin",
+              "value": "Viet Nam"
+            },
+            {
+              "name": "Material",
+              "value": "Tuypsi Hàn Quốc"
+            }
+          ],
+          "price_before_discount": 85000,
+          "price_after_discount": 85000,
+          "desc": "Được coi là must have item của mùa hè, quần short luôn đem lại cảm giác mát mẻ, dễ chịu cho người mặc ",
+          "image": [
+            "https://i.ibb.co/jvNm3cg/sp10.png",
+            "https://i.ibb.co/mtbyzfG/sp10-sub-02.png",
+            "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
+          ],
+          "quantity": "125",
+          "is_hot": true
+        },
+        {
+          "id": "product11",
+          "name": "Quần đùi nam nữ unisex, Quần short sooc thể thao nam nữ Q15",
+          "brand": "No brand",
+          "attributes": [
+            {
+              "name": "Origin",
+              "value": "Viet Nam"
+            },
+            {
+              "name": "Material",
+              "value": "Cotton"
+            }
+          ],
+          "price_before_discount": 60000,
+          "price_after_discount": 60000,
+          "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
+          "image": [
+            "https://i.ibb.co/5jxbKPd/sp11.png",
+            "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
+          ],
+          "quantity": "200",
+          "is_hot": true
+        },
+        {
+          "id": "product12",
+          "name": "Áo thun unisex tay lỡ nam nữ form rộng, áo phông cotton unisex phong cách HELLO SUMMER",
+          "brand": "Unisex",
+          "attributes": [
+            {
+              "name": "Origin",
+              "value": "Viet Nam"
+            },
+            {
+              "name": "Material",
+              "value": "Cotton"
+            },
+            {
+              "name": "Style",
+              "value": "Oversized"
+            }
+          ],
+          "price_before_discount": 120000,
+          "price_after_discount": 115000,
+          "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
+          "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
+          "quantity": "200",
+          "is_hot": true
         }
+      ],
+      "banner": [
+        "https://i.ibb.co/6D0QMZH/banner3.jpg",
+        "https://i.ibb.co/gWfw8Bc/banner1.jpg",
+        "https://i.ibb.co/Gk5qxZH/banner2.jpg"
       ]
     }
   ]
