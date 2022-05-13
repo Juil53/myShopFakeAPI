@@ -171,6 +171,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_01", "cate02", "sub_cate_04"],
+      "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
@@ -197,6 +198,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_02", "cate03", "sub_cate_06"],
+      "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
@@ -222,6 +224,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "status": "Available",
       "price_before_discount": 385000,
       "price_after_discount": 370000,
       "desc": "Chất: Lụa vân gỗ nhập cao cấp - HÀNG VN THIẾT KẾ - THỜI TRANG QC",
@@ -248,6 +251,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "status": "Available",
       "price_before_discount": 85000,
       "price_after_discount": 85000,
       "desc": "Được coi là must have item của mùa hè, quần short luôn đem lại cảm giác mát mẻ, dễ chịu cho người mặc ",
@@ -274,6 +278,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "status": "Available",
       "price_before_discount": 60000,
       "price_after_discount": 60000,
       "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
@@ -303,6 +308,7 @@
         }
       ],
       "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "status": "Available",
       "price_before_discount": 120000,
       "price_after_discount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
@@ -1397,6 +1403,7 @@
             "value": "silk"
           }
         ],
+        "category": ["cate01", "sub_cate_01"],
         "status": "Available",
         "price_before_discount": 400000,
         "price_after_discount": 200000,
@@ -1419,6 +1426,8 @@
             "value": "Silk"
           }
         ],
+        "category": ["cate01", "sub_cate_01", "cate02", "sub_cate_04"],
+        "status": "Available",
         "price_before_discount": 500000,
         "price_after_discount": 480000,
         "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
@@ -1444,6 +1453,8 @@
             "value": "Free size"
           }
         ],
+        "category": ["cate01", "sub_cate_02", "cate03", "sub_cate_06"],
+        "status": "Available",
         "price_before_discount": 500000,
         "price_after_discount": 480000,
         "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
@@ -1468,6 +1479,8 @@
             "value": "Lụa vân gỗ"
           }
         ],
+        "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+        "status": "Available",
         "price_before_discount": 385000,
         "price_after_discount": 370000,
         "desc": "Chất: Lụa vân gỗ nhập cao cấp - HÀNG VN THIẾT KẾ - THỜI TRANG QC",
@@ -1493,6 +1506,8 @@
             "value": "Tuypsi Hàn Quốc"
           }
         ],
+        "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+        "status": "Available",
         "price_before_discount": 85000,
         "price_after_discount": 85000,
         "desc": "Được coi là must have item của mùa hè, quần short luôn đem lại cảm giác mát mẻ, dễ chịu cho người mặc ",
@@ -1518,6 +1533,8 @@
             "value": "Cotton"
           }
         ],
+        "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+        "status": "Available",
         "price_before_discount": 60000,
         "price_after_discount": 60000,
         "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
@@ -1546,6 +1563,8 @@
             "value": "Oversized"
           }
         ],
+        "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+        "status": "Available",
         "price_before_discount": 120000,
         "price_after_discount": 115000,
         "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
