@@ -1,5 +1,5 @@
 {
-  "product": [
+  "products": [
     {
       "id": "product01",
       "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
@@ -1418,7 +1418,7 @@
       "role": "Client"
     }
   ],
-  "category": [
+  "categories": [
     {
       "id": "cate_01",
       "name": "Shirt",
@@ -1488,7 +1488,7 @@
       ]
     }
   ],
-  "cart": [
+  "carts": [
     {
       "id": "cart_01",
       "products": [
@@ -1542,7 +1542,7 @@
       "user_id": "35"
     }
   ],
-  "order": [
+  "orders": [
     {
       "id": "order01",
       "date": "10-05-2022",
