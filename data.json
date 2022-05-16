@@ -14,21 +14,16 @@
           "value": "USA"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_01"
-      ],
+      "category": ["cate04", "sub_cate_10"],
       "status": "Available",
       "price_before_discount": 400000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/Cw1fNbx/sp1.png"
-      ],
+      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
       "quantity": "100",
       "is_hot": true
     },
@@ -46,21 +41,16 @@
           "value": "American"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02"
-      ],
+      "category": ["cate04", "sub_cate_10"],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/Bzps9yB/sp2.png"
-      ],
+      "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
       "quantity": "10"
     },
     {
@@ -77,17 +67,16 @@
           "value": "USA"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
+      "category": ["cate01", "sub_cate_03"],
       "status": "Available",
       "price_before_discount": 100000,
       "price_after_discount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/QjjdqgR/sp3.png"
-      ],
+      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
       "quantity": "100"
     },
     {
@@ -104,87 +93,65 @@
           "value": "USA"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": [
-        "cate02",
-        "sub_cate_04"
-      ],
+      "category": ["cate04", "sub_cate_11"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/djcQ0Zv/sp4.png"
-      ],
+      "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
       "quantity": "10"
     },
     {
       "id": "product05",
-      "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-      "brand": "Giày abjdihfie",
+      "name": "Quần ống loe cạp cao legging dáng dài",
+      "brand": "Legging",
       "attributes": [
         {
-          "name": "Insurance",
-          "value": "12 months"
-        },
-        {
           "name": "Origin",
-          "value": "USA"
+          "value": "Viet Nam"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_01",
-        "cate02",
-        "sub_cate_04"
-      ],
+      "category": ["cate02", "sub_cate_04"],
       "status": "Available",
       "price_before_discount": 300000,
       "price_after_discount": 250000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/QjjdqgR/sp3.png"
-      ],
-      "quantity": "100"
+      "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
+      "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
+      "quantity": "30"
     },
     {
       "id": "product06",
-      "name": "Giày đi vào thế giới cổ tích",
-      "brand": "Doraemon",
+      "name": "Áo Khoác Cardigan Len Mỏng Cho Nữ Phong Cách",
+      "brand": "Styled Min",
       "attributes": [
         {
-          "name": "Insurance",
-          "value": "12 months"
-        },
-        {
           "name": "Origin",
-          "value": "USA"
+          "value": "Korean"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_01",
-        "cate03",
-        "sub_cate_05"
-      ],
+      "category": ["cate01", "sub_cate_03"],
       "status": "Available",
-      "price_before_discount": 200000,
-      "price_after_discount": 200000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+      "price_before_discount": 150000,
+      "price_after_discount": 135000,
+      "desc": "Áo khoác Cardigan với phong cách trẻ trung, thiết kế đơn giản dễ phối đồ, có thể kết hợp với nhiều loại trang phục như: váy 2 dây, váy body, áo croptop, bikini,",
       "image": [
-        "https://i.ibb.co/Cw1fNbx/sp1.png"
+        "https://i.ibb.co/fNB4hCW/sp6.png",
+        "https://i.ibb.co/LZWwNY2/sp6-sub-01.png",
+        "https://i.ibb.co/smMKJ1r/sp6-sub-02.png"
       ],
+      "color": ["white", "beige-colored"],
       "quantity": "100"
     },
     {
@@ -201,19 +168,12 @@
           "value": "Silk"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_01",
-        "cate02",
-        "sub_cate_04"
-      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": [
-        "https://i.ibb.co/KN82k0g/sp7.png"
-      ],
+      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
       "quantity": "15",
       "is_hot": true
     },
@@ -229,18 +189,9 @@
         {
           "name": "Material",
           "value": "Coton"
-        },
-        {
-          "name": "Size",
-          "value": "Free size"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "cate03",
-        "sub_cate_06"
-      ],
+      "category": ["cate03", "sub_cate_09", "sub_cate_08"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
@@ -249,7 +200,8 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-      "quantity": "25",
+      "color": ["white", "beige-colored"],
+      "quantity": "75",
       "is_hot": true
     },
     {
@@ -266,12 +218,7 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "cate04",
-        "sub_cate_08"
-      ],
+      "category": ["cate03", "sub_cate_08"],
       "status": "Available",
       "price_before_discount": 385000,
       "price_after_discount": 370000,
@@ -281,6 +228,7 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
+      "size": ["M", "L", "XL"],
       "quantity": "125",
       "is_hot": true
     },
@@ -298,12 +246,7 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "cate04",
-        "sub_cate_08"
-      ],
+      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
       "status": "Available",
       "price_before_discount": 85000,
       "price_after_discount": 85000,
@@ -330,12 +273,7 @@
           "value": "Cotton"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "cate04",
-        "sub_cate_08"
-      ],
+      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
       "status": "Available",
       "price_before_discount": 60000,
       "price_after_discount": 60000,
@@ -365,21 +303,235 @@
           "value": "Oversized"
         }
       ],
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "cate04",
-        "sub_cate_08"
-      ],
+      "category": ["cate01", "sub_cate_01"],
       "status": "Available",
       "price_before_discount": 120000,
       "price_after_discount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-      "image": [
-        "https://i.ibb.co/1ntHrNB/sp12.png"
-      ],
+      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
       "quantity": "200",
       "is_hot": true
+    },
+    {
+      "id": "product13",
+      "name": "ÁO CHỐNG NẮNG NỮ GU 2 LỚP Thoáng Mát, Chống Nắng, Chống Tia UV ",
+      "brand": "No brand",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "thun mát"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "80cm"
+        }
+      ],
+      "category": ["cate01", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 200000,
+      "price_after_discount": 119000,
+      "desc": " Áo chống nắng với thiết kế 2 lớp dày dặn, đường may tỉ mỉ chắc chắn, mặc lên thoáng mát, đảm bảo sẽ khác xa các loại áo chống nắng thông thường có trên thị trường",
+      "image": [
+        "https://i.ibb.co/WtYk3QS/sp13-sub-01.png",
+        "https://i.ibb.co/CPgJPLd/sp13-sub-02.png",
+        "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
+        "https://i.ibb.co/DRz40Ds/sp13.png"
+      ],
+      "color": ["blue", "red", "dark-green", "pink"],
+      "quantity": "150",
+      "is_new": true
+    },
+    {
+      "id": "product14",
+      "name": "Áo vest nữ 2 lớp - Áo blazer trơn",
+      "brand": "Blazer",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Vintexx"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "Long sleeve"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 250000,
+      "price_after_discount": 250000,
+      "desc": "Màu Nâu túi ngực/kem túi ngực form rộng hơn tầm dưới 57-59kh mặc vẫn thoải mái ạ. dưới m7 các b nha",
+      "image": [
+        "https://i.ibb.co/bLMRqKy/sp14.png",
+        "https://i.ibb.co/n3QMSgk/sp14-sub-02.png",
+        "https://i.ibb.co/KL65T8t/sp14-sub-01.png"
+      ],
+      "quantity": "150",
+      "is_new": true
+    },
+    {
+      "id": "product15",
+      "name": "Áo vest blazer thiết kế kiểu dáng hàn quốc công sở chất chiffon mỏng",
+      "brand": "Quảng Châu",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "China"
+        },
+        {
+          "name": "Material",
+          "value": "Thin Chiffon"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "Long sleeve"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 350000,
+      "price_after_discount": 300000,
+      "desc": "Áo vest chất liệu voan đũi mỏng nhẹ dễ khoác, đảm bảo là 1 item must have cho cả hè lẫn mùa thu đông sắp tới nhe. Mẫu trơn, form đơn giản, chất mát.",
+      "image": [
+        "https://i.ibb.co/7g1w1F3/sp15.png",
+        "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
+        "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
+      ],
+      "size": ["S", "M", "L", "XL"],
+      "color": ["black", "brown", "white"],
+      "quantity": "120",
+      "is_new": true
+    },
+    {
+      "id": "product16",
+      "name": "Áo Thun Nữ Ngắn croptop Tay Cổ Chữ V Thắt Nút Chéo Màu Trơn Thời Trang Phong Cách Hàn Quốc",
+      "brand": "Kora style",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Korea"
+        },
+        {
+          "name": "Material",
+          "value": "Thun"
+        }
+      ],
+      "category": ["cate01", "sub_cate_01"],
+      "status": "Available",
+      "price_before_discount": 90000,
+      "price_after_discount": 90000,
+      "desc": "Do hiệu ứng hiển thị và ánh sáng khác nhau, màu sắc của sản phẩm thực tế sẽ khác với hình ảnh, vui lòng tham khảo sản phẩm thực tế",
+      "image": [
+        "https://i.ibb.co/fqQCfgf/sp16.png",
+        "https://i.ibb.co/Kmxcdm6/sp16-sub-04.png",
+        "https://i.ibb.co/G0Pf0fB/sp16-sub-01.png",
+        "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
+        "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
+      ],
+      "color": ["red", "blue", "white", "black"],
+      "quantity": "205",
+      "is_new": true
+    },
+    {
+      "id": "product17",
+      "name": "Chân váy ngắn voan 3 Tầng Xếp Ly, Chân Váy Xòe",
+      "brand": "LOZA",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Quang Chau"
+        },
+        {
+          "name": "Material",
+          "value": "Silk"
+        },
+        {
+          "name": "Length",
+          "value": "Mini"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 105000,
+      "price_after_discount": 95000,
+      "desc": "kiểu dáng: năng động trẻ trung, dễ kết hợp với các loại trang phục khác, freesize: vì là cạp chun nên ai mặc cũng vừa nha 40-60kg mặc xinh",
+      "image": [
+        "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
+        "https://i.ibb.co/DbwxWhp/sp17.png"
+      ],
+      "color": ["black", "white"],
+      "quantity": "105",
+      "is_new": true
+    },
+    {
+      "id": "product18",
+      "name": "Chân váy tennis xếp ly phong cách âu mỹ",
+      "brand": "Kozoda",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "American"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Length",
+          "value": "50cm"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 160000,
+      "price_after_discount": 160000,
+      "desc": "Phong cách độc đáo, tinh tế bắt mắt, thời trang và quyến rũ",
+      "image": [
+        "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
+        "https://i.ibb.co/W2B2kJN/sp18.png"
+      ],
+      "size": ["S", "M", "L"],
+      "color": ["white", "black"],
+      "quantity": "200",
+      "is_new": true
+    },
+    {
+      "id": "product19",
+      "name": "CHÂN VÁY JEANS ULZZANG",
+      "brand": "Unisex",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Shipping from",
+          "value": "Da Nang"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 150000,
+      "price_after_discount": 150000,
+      "desc": "Chất jeans dày dặn không co dãn",
+      "image": [
+        "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
+        "https://i.ibb.co/RScbfH1/sp19.png"
+      ],
+      "color": ["blue", "black"],
+      "quantity": "200",
+      "is_new": true
     }
   ],
   "user": [
@@ -1278,6 +1430,10 @@
         {
           "id": "sub_cate_02",
           "name": "Somi"
+        },
+        {
+          "id": "sub_cate_03",
+          "name": "Jacket"
         }
       ]
     },
@@ -1286,44 +1442,48 @@
       "name": "Pants",
       "sub_cate": [
         {
-          "id": "sub_cate_03",
+          "id": "sub_cate_04",
           "name": "Jeans"
         },
         {
-          "id": "sub_cate_04",
+          "id": "sub_cate_05",
           "name": "Kaki"
         }
       ]
     },
     {
       "id": "cate_03",
-      "name": "Dress",
+      "name": "Dress and skirt",
       "sub_cate": [
         {
-          "id": "sub_cate_05",
-          "name": "Party dress"
-        },
-        {
           "id": "sub_cate_06",
-          "name": "Jumpsuit"
+          "name": "Pleated skirt"
         },
         {
           "id": "sub_cate_07",
-          "name": "Mini dress"
+          "name": "Jean skirt"
+        },
+        {
+          "id": "sub_cate_08",
+          "name": "Party dress"
+        },
+        {
+          "id": "sub_cate_09",
+          "name": "Strap dress"
         }
       ]
     },
     {
       "id": "cate_04",
-      "name": "Category 4",
+      "name": "Shoes",
       "sub_cate": [
         {
-          "id": "sub_cate_08",
-          "name": "Sub cate 10"
+          "id": "sub_cate_10",
+          "name": "Sport shoes"
         },
         {
-          "id": "sub_cate_09",
-          "name": "Sub cate 09"
+          "id": "sub_cate_11",
+          "name": "Slippers"
         }
       ]
     }
@@ -1336,9 +1496,7 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         },
@@ -1346,9 +1504,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         }
@@ -1362,9 +1518,7 @@
           "id": "product03",
           "quantity": 1,
           "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
-          "image": [
-            "https://i.ibb.co/QjjdqgR/sp3.png"
-          ],
+          "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
           "price_before_discount": 100000,
           "price_after_discount": 80000
         },
@@ -1372,9 +1526,7 @@
           "id": "product02",
           "quantity": 1,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         },
@@ -1382,9 +1534,7 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1414,9 +1564,7 @@
         {
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1444,9 +1592,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         }
@@ -1473,11 +1619,11 @@
           "value": "USA"
         },
         {
-          "name": "material",
+          "name": "Material",
           "value": "silk"
         }
       ],
-      "category": ["cate01", "sub_cate_01"],
+      "category": ["cate04", "sub_cate_10"],
       "status": "Available",
       "price_before_discount": 400000,
       "price_after_discount": 200000,
@@ -1500,7 +1646,7 @@
           "value": "Silk"
         }
       ],
-      "category": ["cate01", "sub_cate_01", "cate02", "sub_cate_04"],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
@@ -1521,13 +1667,9 @@
         {
           "name": "Material",
           "value": "Coton"
-        },
-        {
-          "name": "Size",
-          "value": "Free size"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "cate03", "sub_cate_06"],
+      "category": ["cate03", "sub_cate_09", "sub_cate_08"],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
@@ -1536,7 +1678,8 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-      "quantity": "25",
+      "color": ["white", "beige-colored"],
+      "quantity": "75",
       "is_hot": true
     },
     {
@@ -1553,7 +1696,7 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "category": ["cate03", "sub_cate_08"],
       "status": "Available",
       "price_before_discount": 385000,
       "price_after_discount": 370000,
@@ -1563,6 +1706,7 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
+      "size": ["M", "L", "XL"],
       "quantity": "125",
       "is_hot": true
     },
@@ -1580,7 +1724,7 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
       "status": "Available",
       "price_before_discount": 85000,
       "price_after_discount": 85000,
@@ -1607,7 +1751,7 @@
           "value": "Cotton"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
       "status": "Available",
       "price_before_discount": 60000,
       "price_after_discount": 60000,
@@ -1637,7 +1781,7 @@
           "value": "Oversized"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "cate04", "sub_cate_08"],
+      "category": ["cate01", "sub_cate_01"],
       "status": "Available",
       "price_before_discount": 120000,
       "price_after_discount": 115000,
@@ -1645,6 +1789,229 @@
       "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
       "quantity": "200",
       "is_hot": true
+    }
+  ],
+  "new_products": [
+    {
+      "id": "product13",
+      "name": "ÁO CHỐNG NẮNG NỮ GU 2 LỚP Thoáng Mát, Chống Nắng, Chống Tia UV ",
+      "brand": "No brand",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "thun mát"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "80cm"
+        }
+      ],
+      "category": ["cate01", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 200000,
+      "price_after_discount": 119000,
+      "desc": " Áo chống nắng với thiết kế 2 lớp dày dặn, đường may tỉ mỉ chắc chắn, mặc lên thoáng mát, đảm bảo sẽ khác xa các loại áo chống nắng thông thường có trên thị trường",
+      "image": [
+        "https://i.ibb.co/WtYk3QS/sp13-sub-01.png",
+        "https://i.ibb.co/CPgJPLd/sp13-sub-02.png",
+        "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
+        "https://i.ibb.co/DRz40Ds/sp13.png"
+      ],
+      "color": ["blue", "red", "dark-green", "pink"],
+      "quantity": "150",
+      "is_new": true
+    },
+    {
+      "id": "product14",
+      "name": "Áo vest nữ 2 lớp - Áo blazer trơn",
+      "brand": "Blazer",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Vintexx"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "Long sleeve"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 250000,
+      "price_after_discount": 250000,
+      "desc": "Màu Nâu túi ngực/kem túi ngực form rộng hơn tầm dưới 57-59kh mặc vẫn thoải mái ạ. dưới m7 các b nha",
+      "image": [
+        "https://i.ibb.co/bLMRqKy/sp14.png",
+        "https://i.ibb.co/n3QMSgk/sp14-sub-02.png",
+        "https://i.ibb.co/KL65T8t/sp14-sub-01.png"
+      ],
+      "quantity": "150",
+      "is_new": true
+    },
+    {
+      "id": "product15",
+      "name": "Áo vest blazer thiết kế kiểu dáng hàn quốc công sở chất chiffon mỏng",
+      "brand": "Quảng Châu",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "China"
+        },
+        {
+          "name": "Material",
+          "value": "Thin Chiffon"
+        },
+        {
+          "name": "Sleeve length",
+          "value": "Long sleeve"
+        }
+      ],
+      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "status": "Available",
+      "price_before_discount": 350000,
+      "price_after_discount": 300000,
+      "desc": "Áo vest chất liệu voan đũi mỏng nhẹ dễ khoác, đảm bảo là 1 item must have cho cả hè lẫn mùa thu đông sắp tới nhe. Mẫu trơn, form đơn giản, chất mát.",
+      "image": [
+        "https://i.ibb.co/7g1w1F3/sp15.png",
+        "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
+        "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
+      ],
+      "size": ["S", "M", "L", "XL"],
+      "color": ["black", "brown", "white"],
+      "quantity": "120",
+      "is_new": true
+    },
+    {
+      "id": "product16",
+      "name": "Áo Thun Nữ Ngắn croptop Tay Cổ Chữ V Thắt Nút Chéo Màu Trơn Thời Trang Phong Cách Hàn Quốc",
+      "brand": "Kora style",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Korea"
+        },
+        {
+          "name": "Material",
+          "value": "Thun"
+        }
+      ],
+      "category": ["cate01", "sub_cate_01"],
+      "status": "Available",
+      "price_before_discount": 90000,
+      "price_after_discount": 90000,
+      "desc": "Do hiệu ứng hiển thị và ánh sáng khác nhau, màu sắc của sản phẩm thực tế sẽ khác với hình ảnh, vui lòng tham khảo sản phẩm thực tế",
+      "image": [
+        "https://i.ibb.co/fqQCfgf/sp16.png",
+        "https://i.ibb.co/Kmxcdm6/sp16-sub-04.png",
+        "https://i.ibb.co/G0Pf0fB/sp16-sub-01.png",
+        "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
+        "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
+      ],
+      "color": ["red", "blue", "white", "black"],
+      "quantity": "205",
+      "is_new": true
+    },
+    {
+      "id": "product17",
+      "name": "Chân váy ngắn voan 3 Tầng Xếp Ly, Chân Váy Xòe",
+      "brand": "LOZA",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Quang Chau"
+        },
+        {
+          "name": "Material",
+          "value": "Silk"
+        },
+        {
+          "name": "Length",
+          "value": "Mini"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 105000,
+      "price_after_discount": 95000,
+      "desc": "kiểu dáng: năng động trẻ trung, dễ kết hợp với các loại trang phục khác, freesize: vì là cạp chun nên ai mặc cũng vừa nha 40-60kg mặc xinh",
+      "image": [
+        "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
+        "https://i.ibb.co/DbwxWhp/sp17.png"
+      ],
+      "color": ["black", "white"],
+      "quantity": "105",
+      "is_new": true
+    },
+    {
+      "id": "product18",
+      "name": "Chân váy tennis xếp ly phong cách âu mỹ",
+      "brand": "Kozoda",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "American"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Length",
+          "value": "50cm"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 160000,
+      "price_after_discount": 160000,
+      "desc": "Phong cách độc đáo, tinh tế bắt mắt, thời trang và quyến rũ",
+      "image": [
+        "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
+        "https://i.ibb.co/W2B2kJN/sp18.png"
+      ],
+      "size": ["S", "M", "L"],
+      "color": ["white", "black"],
+      "quantity": "200",
+      "is_new": true
+    },
+    {
+      "id": "product19",
+      "name": "CHÂN VÁY JEANS ULZZANG",
+      "brand": "Unisex",
+      "attributes": [
+        {
+          "name": "Origin",
+          "value": "Viet Nam"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        },
+        {
+          "name": "Shipping from",
+          "value": "Da Nang"
+        }
+      ],
+      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "status": "Available",
+      "price_before_discount": 150000,
+      "price_after_discount": 150000,
+      "desc": "Chất jeans dày dặn không co dãn",
+      "image": [
+        "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
+        "https://i.ibb.co/RScbfH1/sp19.png"
+      ],
+      "color": ["blue", "black"],
+      "quantity": "200",
+      "is_new": true
     }
   ]
 }
