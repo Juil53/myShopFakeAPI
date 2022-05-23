@@ -24,7 +24,8 @@
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
-      "quantity": "100",
+      "quantity": 100,
+      "sold": 50,
       "is_hot": true
     },
     {
@@ -51,7 +52,7 @@
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
-      "quantity": "10"
+      "quantity": 10
     },
     {
       "id": "product03",
@@ -77,7 +78,7 @@
       "price_after_discount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
-      "quantity": "100"
+      "quantity": 100
     },
     {
       "id": "product04",
@@ -103,7 +104,7 @@
       "price_after_discount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
-      "quantity": "10"
+      "quantity": 10
     },
     {
       "id": "product05",
@@ -125,7 +126,7 @@
       "price_after_discount": 250000,
       "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
       "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
-      "quantity": "30"
+      "quantity": 30
     },
     {
       "id": "product06",
@@ -312,7 +313,7 @@
         "https://i.ibb.co/mtbyzfG/sp10-sub-02.png",
         "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
       ],
-      "quantity": "125",
+      "quantity": 125,
       "sold": 120,
       "is_hot": true
     },
@@ -367,7 +368,7 @@
       "price_after_discount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
       "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
-      "quantity": "200",
+      "quantity": 200,
       "is_hot": true
     },
     {
@@ -536,7 +537,7 @@
           "available": 15
         }
       ],
-      "quantity": "120",
+      "quantity": 120,
       "available": 165,
       "is_new": true
     },
@@ -591,7 +592,7 @@
           "available": 20
         }
       ],
-      "quantity": "80",
+      "quantity": 80,
       "sold": 20,
       "is_new": true
     },
