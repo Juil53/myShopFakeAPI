@@ -151,8 +151,25 @@
         "https://i.ibb.co/LZWwNY2/sp6-sub-01.png",
         "https://i.ibb.co/smMKJ1r/sp6-sub-02.png"
       ],
-      "color": ["white", "beige-colored"],
-      "quantity": "100"
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["white", "beige-colored"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "white",
+          "available": 50
+        },
+        {
+          "otp_color": "beige-colored",
+          "available": 50
+        }
+      ],
+      "quantity": 100,
+      "sold": 20
     },
     {
       "id": "product07",
@@ -174,7 +191,7 @@
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
       "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
-      "quantity": "15",
+      "quantity": 15,
       "is_hot": true
     },
     {
@@ -200,8 +217,25 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-      "color": ["white", "beige-colored"],
-      "quantity": "75",
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["white", "beige-colored"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "white",
+          "available": 120
+        },
+        {
+          "otp_color": "beige-colored",
+          "available": 20
+        }
+      ],
+      "quantity": 140,
+      "sold": 20,
       "is_hot": true
     },
     {
@@ -229,7 +263,29 @@
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
       "size": ["M", "L", "XL"],
-      "quantity": "125",
+      "configurable_options": [
+        {
+          "id": "otp_size",
+          "name": "Size",
+          "value": ["M", "L", "XL"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_size": "M",
+          "available": 20
+        },
+        {
+          "opt_size": "L",
+          "available": 20
+        },
+        {
+          "otp_size": "XL",
+          "available": 20
+        }
+      ],
+      "quantity": 60,
+      "sold": 20,
       "is_hot": true
     },
     {
@@ -257,6 +313,7 @@
         "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
       ],
       "quantity": "125",
+      "sold": 120,
       "is_hot": true
     },
     {
@@ -282,7 +339,8 @@
         "https://i.ibb.co/5jxbKPd/sp11.png",
         "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
       ],
-      "quantity": "200",
+      "quantity": 200,
+      "sold": 50,
       "is_hot": true
     },
     {
@@ -341,8 +399,32 @@
         "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
         "https://i.ibb.co/DRz40Ds/sp13.png"
       ],
-      "color": ["blue", "red", "dark-green", "pink"],
-      "quantity": "150",
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["blue", "red", "dark-green", "pink"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "red",
+          "available": 20
+        },
+        {
+          "otp_color": "blue",
+          "available": 20
+        },
+        {
+          "otp_color": "dark-green",
+          "available": 20
+        },
+        {
+          "otp_color": "pink",
+          "available": 20
+        }
+      ],
+      "quantity": 80,
       "is_new": true
     },
     {
@@ -373,7 +455,8 @@
         "https://i.ibb.co/n3QMSgk/sp14-sub-02.png",
         "https://i.ibb.co/KL65T8t/sp14-sub-01.png"
       ],
-      "quantity": "150",
+      "quantity": 150,
+      "sold": 60,
       "is_new": true
     },
     {
@@ -404,9 +487,57 @@
         "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
         "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
       ],
-      "size": ["S", "M", "L", "XL"],
-      "color": ["black", "brown", "white"],
+      "configurable_options": [
+        {
+          "id": "otp_size",
+          "name": "Size",
+          "values": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "values": ["black", "brown", "white"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_size": "S",
+          "otp_color": "black",
+          "available": 15
+        },
+        {
+          "otp_size": "M",
+          "otp_color": "white",
+          "available": 20
+        },
+        {
+          "otp_size": "M",
+          "otp_color": "brown",
+          "available": 20
+        },
+        {
+          "otp_size": "L",
+          "otp_color": "brown",
+          "available": 20
+        },
+        {
+          "otp_size": "L",
+          "otp_color": "white",
+          "available": 50
+        },
+        {
+          "otp_size": "L",
+          "otp_color": "black",
+          "available": 25
+        },
+        {
+          "otp_size": "XL",
+          "otp_color": "black",
+          "available": 15
+        }
+      ],
       "quantity": "120",
+      "available": 165,
       "is_new": true
     },
     {
@@ -435,8 +566,33 @@
         "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
         "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
       ],
-      "color": ["red", "blue", "white", "black"],
-      "quantity": "205",
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["red", "blue", "white", "black"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "red",
+          "available": 20
+        },
+        {
+          "otp_color": "blue",
+          "available": 20
+        },
+        {
+          "otp_color": "white",
+          "available": 20
+        },
+        {
+          "otp_color": "black",
+          "available": 20
+        }
+      ],
+      "quantity": "80",
+      "sold": 20,
       "is_new": true
     },
     {
@@ -466,8 +622,25 @@
         "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
         "https://i.ibb.co/DbwxWhp/sp17.png"
       ],
-      "color": ["black", "white"],
-      "quantity": "105",
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["white", "black"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "white",
+          "available": 50
+        },
+        {
+          "otp_color": "black",
+          "available": 25
+        }
+      ],
+      "quantity": 105,
+      "sold": 100,
       "is_new": true
     },
     {
@@ -499,7 +672,42 @@
       ],
       "size": ["S", "M", "L"],
       "color": ["white", "black"],
-      "quantity": "200",
+      "configurable_options": [
+        {
+          "id": "otp_size",
+          "name": "Size",
+          "values": ["S", "M", "L"]
+        },
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "values": ["black", "white"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_size": "S",
+          "otp_color": "black",
+          "available": 15
+        },
+        {
+          "otp_size": "M",
+          "otp_color": "white",
+          "available": 20
+        },
+        {
+          "otp_size": "M",
+          "otp_color": "black",
+          "available": 20
+        },
+        {
+          "otp_size": "L",
+          "otp_color": "white",
+          "available": 20
+        }
+      ],
+      "quantity": 75,
+      "sold": 40,
       "is_new": true
     },
     {
@@ -529,8 +737,24 @@
         "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
         "https://i.ibb.co/RScbfH1/sp19.png"
       ],
-      "color": ["blue", "black"],
-      "quantity": "200",
+      "configurable_options": [
+        {
+          "id": "otp_color",
+          "name": "Color",
+          "value": ["blue", "black"]
+        }
+      ],
+      "configurable_products": [
+        {
+          "otp_color": "blue",
+          "available": 50
+        },
+        {
+          "otp_color": "black",
+          "available": 55
+        }
+      ],
+      "quantity": 105,
       "is_new": true
     }
   ],
@@ -1603,415 +1827,5 @@
     "https://i.ibb.co/6D0QMZH/banner3.jpg",
     "https://i.ibb.co/gWfw8Bc/banner1.jpg",
     "https://i.ibb.co/Gk5qxZH/banner2.jpg"
-  ],
-  "hot_products": [
-    {
-      "id": "product01",
-      "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-      "brand": "UK",
-      "attributes": [
-        {
-          "name": "Insurance",
-          "value": "12 months"
-        },
-        {
-          "name": "Origin",
-          "value": "USA"
-        },
-        {
-          "name": "Material",
-          "value": "silk"
-        }
-      ],
-      "category": ["cate04", "sub_cate_10"],
-      "status": "Available",
-      "price_before_discount": 400000,
-      "price_after_discount": 200000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
-      "quantity": "100",
-      "is_hot": true
-    },
-    {
-      "id": "product07",
-      "name": "Váy thời trang công sở văn phòng thanh lịch tôn dáng",
-      "brand": "Hàng công sở cao cấp",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Silk"
-        }
-      ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
-      "status": "Available",
-      "price_before_discount": 500000,
-      "price_after_discount": 480000,
-      "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
-      "quantity": "15",
-      "is_hot": true
-    },
-    {
-      "id": "product08",
-      "name": "Váy trễ vai tay dài 3 tầng phối chun eo",
-      "brand": "Quảng Châu",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "China"
-        },
-        {
-          "name": "Material",
-          "value": "Coton"
-        }
-      ],
-      "category": ["cate03", "sub_cate_09", "sub_cate_08"],
-      "status": "Available",
-      "price_before_discount": 500000,
-      "price_after_discount": 480000,
-      "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
-      "image": [
-        "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
-        "https://i.ibb.co/QNvrxwV/sp8.png"
-      ],
-      "color": ["white", "beige-colored"],
-      "quantity": "75",
-      "is_hot": true
-    },
-    {
-      "id": "product09",
-      "name": "Đầm dạ hội dự tiệc siêu sang - Mua váy dạ hội lụa siêu xinh",
-      "brand": "Hàng Việt Nam thiết kế",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Lụa vân gỗ"
-        }
-      ],
-      "category": ["cate03", "sub_cate_08"],
-      "status": "Available",
-      "price_before_discount": 385000,
-      "price_after_discount": 370000,
-      "desc": "Chất: Lụa vân gỗ nhập cao cấp - HÀNG VN THIẾT KẾ - THỜI TRANG QC",
-      "image": [
-        "https://i.ibb.co/tcpXgMq/sp9-sub-01.png",
-        "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
-        "https://i.ibb.co/Pjp90nJ/sp9.png"
-      ],
-      "size": ["M", "L", "XL"],
-      "quantity": "125",
-      "is_hot": true
-    },
-    {
-      "id": "product10",
-      "name": "Quần short nữ cạp hai cúc LOZA 3 màu LQ302002",
-      "brand": "LOZA",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Tuypsi Hàn Quốc"
-        }
-      ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
-      "status": "Available",
-      "price_before_discount": 85000,
-      "price_after_discount": 85000,
-      "desc": "Được coi là must have item của mùa hè, quần short luôn đem lại cảm giác mát mẻ, dễ chịu cho người mặc ",
-      "image": [
-        "https://i.ibb.co/jvNm3cg/sp10.png",
-        "https://i.ibb.co/mtbyzfG/sp10-sub-02.png",
-        "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
-      ],
-      "quantity": "125",
-      "is_hot": true
-    },
-    {
-      "id": "product11",
-      "name": "Quần đùi nam nữ unisex, Quần short sooc thể thao nam nữ Q15",
-      "brand": "No brand",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Cotton"
-        }
-      ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
-      "status": "Available",
-      "price_before_discount": 60000,
-      "price_after_discount": 60000,
-      "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
-      "image": [
-        "https://i.ibb.co/5jxbKPd/sp11.png",
-        "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
-      ],
-      "quantity": "200",
-      "is_hot": true
-    },
-    {
-      "id": "product12",
-      "name": "Áo thun unisex tay lỡ nam nữ form rộng, áo phông cotton unisex phong cách HELLO SUMMER",
-      "brand": "Unisex",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Cotton"
-        },
-        {
-          "name": "Style",
-          "value": "Oversized"
-        }
-      ],
-      "category": ["cate01", "sub_cate_01"],
-      "status": "Available",
-      "price_before_discount": 120000,
-      "price_after_discount": 115000,
-      "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
-      "quantity": "200",
-      "is_hot": true
-    }
-  ],
-  "new_products": [
-    {
-      "id": "product13",
-      "name": "ÁO CHỐNG NẮNG NỮ GU 2 LỚP Thoáng Mát, Chống Nắng, Chống Tia UV ",
-      "brand": "No brand",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "thun mát"
-        },
-        {
-          "name": "Sleeve length",
-          "value": "80cm"
-        }
-      ],
-      "category": ["cate01", "sub_cate_03"],
-      "status": "Available",
-      "price_before_discount": 200000,
-      "price_after_discount": 119000,
-      "desc": " Áo chống nắng với thiết kế 2 lớp dày dặn, đường may tỉ mỉ chắc chắn, mặc lên thoáng mát, đảm bảo sẽ khác xa các loại áo chống nắng thông thường có trên thị trường",
-      "image": [
-        "https://i.ibb.co/WtYk3QS/sp13-sub-01.png",
-        "https://i.ibb.co/CPgJPLd/sp13-sub-02.png",
-        "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
-        "https://i.ibb.co/DRz40Ds/sp13.png"
-      ],
-      "color": ["blue", "red", "dark-green", "pink"],
-      "quantity": "150",
-      "is_new": true
-    },
-    {
-      "id": "product14",
-      "name": "Áo vest nữ 2 lớp - Áo blazer trơn",
-      "brand": "Blazer",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Vintexx"
-        },
-        {
-          "name": "Sleeve length",
-          "value": "Long sleeve"
-        }
-      ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
-      "status": "Available",
-      "price_before_discount": 250000,
-      "price_after_discount": 250000,
-      "desc": "Màu Nâu túi ngực/kem túi ngực form rộng hơn tầm dưới 57-59kh mặc vẫn thoải mái ạ. dưới m7 các b nha",
-      "image": [
-        "https://i.ibb.co/bLMRqKy/sp14.png",
-        "https://i.ibb.co/n3QMSgk/sp14-sub-02.png",
-        "https://i.ibb.co/KL65T8t/sp14-sub-01.png"
-      ],
-      "quantity": "150",
-      "is_new": true
-    },
-    {
-      "id": "product15",
-      "name": "Áo vest blazer thiết kế kiểu dáng hàn quốc công sở chất chiffon mỏng",
-      "brand": "Quảng Châu",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "China"
-        },
-        {
-          "name": "Material",
-          "value": "Thin Chiffon"
-        },
-        {
-          "name": "Sleeve length",
-          "value": "Long sleeve"
-        }
-      ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
-      "status": "Available",
-      "price_before_discount": 350000,
-      "price_after_discount": 300000,
-      "desc": "Áo vest chất liệu voan đũi mỏng nhẹ dễ khoác, đảm bảo là 1 item must have cho cả hè lẫn mùa thu đông sắp tới nhe. Mẫu trơn, form đơn giản, chất mát.",
-      "image": [
-        "https://i.ibb.co/7g1w1F3/sp15.png",
-        "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
-        "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
-      ],
-      "size": ["S", "M", "L", "XL"],
-      "color": ["black", "brown", "white"],
-      "quantity": "120",
-      "is_new": true
-    },
-    {
-      "id": "product16",
-      "name": "Áo Thun Nữ Ngắn croptop Tay Cổ Chữ V Thắt Nút Chéo Màu Trơn Thời Trang Phong Cách Hàn Quốc",
-      "brand": "Kora style",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Korea"
-        },
-        {
-          "name": "Material",
-          "value": "Thun"
-        }
-      ],
-      "category": ["cate01", "sub_cate_01"],
-      "status": "Available",
-      "price_before_discount": 90000,
-      "price_after_discount": 90000,
-      "desc": "Do hiệu ứng hiển thị và ánh sáng khác nhau, màu sắc của sản phẩm thực tế sẽ khác với hình ảnh, vui lòng tham khảo sản phẩm thực tế",
-      "image": [
-        "https://i.ibb.co/fqQCfgf/sp16.png",
-        "https://i.ibb.co/Kmxcdm6/sp16-sub-04.png",
-        "https://i.ibb.co/G0Pf0fB/sp16-sub-01.png",
-        "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
-        "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
-      ],
-      "color": ["red", "blue", "white", "black"],
-      "quantity": "205",
-      "is_new": true
-    },
-    {
-      "id": "product17",
-      "name": "Chân váy ngắn voan 3 Tầng Xếp Ly, Chân Váy Xòe",
-      "brand": "LOZA",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Quang Chau"
-        },
-        {
-          "name": "Material",
-          "value": "Silk"
-        },
-        {
-          "name": "Length",
-          "value": "Mini"
-        }
-      ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
-      "status": "Available",
-      "price_before_discount": 105000,
-      "price_after_discount": 95000,
-      "desc": "kiểu dáng: năng động trẻ trung, dễ kết hợp với các loại trang phục khác, freesize: vì là cạp chun nên ai mặc cũng vừa nha 40-60kg mặc xinh",
-      "image": [
-        "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
-        "https://i.ibb.co/DbwxWhp/sp17.png"
-      ],
-      "color": ["black", "white"],
-      "quantity": "105",
-      "is_new": true
-    },
-    {
-      "id": "product18",
-      "name": "Chân váy tennis xếp ly phong cách âu mỹ",
-      "brand": "Kozoda",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "American"
-        },
-        {
-          "name": "Material",
-          "value": "Cotton"
-        },
-        {
-          "name": "Length",
-          "value": "50cm"
-        }
-      ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
-      "status": "Available",
-      "price_before_discount": 160000,
-      "price_after_discount": 160000,
-      "desc": "Phong cách độc đáo, tinh tế bắt mắt, thời trang và quyến rũ",
-      "image": [
-        "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
-        "https://i.ibb.co/W2B2kJN/sp18.png"
-      ],
-      "size": ["S", "M", "L"],
-      "color": ["white", "black"],
-      "quantity": "200",
-      "is_new": true
-    },
-    {
-      "id": "product19",
-      "name": "CHÂN VÁY JEANS ULZZANG",
-      "brand": "Unisex",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        },
-        {
-          "name": "Material",
-          "value": "Cotton"
-        },
-        {
-          "name": "Shipping from",
-          "value": "Da Nang"
-        }
-      ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
-      "status": "Available",
-      "price_before_discount": 150000,
-      "price_after_discount": 150000,
-      "desc": "Chất jeans dày dặn không co dãn",
-      "image": [
-        "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
-        "https://i.ibb.co/RScbfH1/sp19.png"
-      ],
-      "color": ["blue", "black"],
-      "quantity": "200",
-      "is_new": true
-    }
   ]
 }
