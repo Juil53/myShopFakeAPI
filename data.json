@@ -1735,7 +1735,7 @@
   ],
   "carts": [
     {
-      "id": "cart_01",
+      "id": "cart01",
       "products": [
         {
           "id": "product01",
@@ -1757,7 +1757,7 @@
       "userID": "9"
     },
     {
-      "id": "cart_02",
+      "id": "cart02",
       "products": [
         {
           "id": "product03",
