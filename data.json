@@ -156,7 +156,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["white", "beige-colored"]
+          "values": ["white", "beige-colored"]
         }
       ],
       "configurableProducts": [
@@ -230,7 +230,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["white", "beige-colored"]
+          "values": ["white", "beige-colored"]
         }
       ],
       "configurableProducts": [
@@ -276,7 +276,7 @@
         {
           "id": "optSize",
           "name": "Size",
-          "value": ["M", "L", "XL"]
+          "values": ["M", "L", "XL"]
         }
       ],
       "configurableProducts": [
@@ -412,7 +412,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["blue", "red", "dark-green", "pink"]
+          "values": ["blue", "red", "dark-green", "pink"]
         }
       ],
       "configurableProducts": [
@@ -579,7 +579,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["red", "blue", "white", "black"]
+          "values": ["red", "blue", "white", "black"]
         }
       ],
       "configurableProducts": [
@@ -639,7 +639,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["white", "black"]
+          "values": ["white", "black"]
         }
       ],
       "configurableProducts": [
@@ -762,7 +762,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "value": ["blue", "black"]
+          "values": ["blue", "black"]
         }
       ],
       "configurableProducts": [
