@@ -1793,7 +1793,7 @@
       "date": "10-05-2022",
       "totalBeforeDiscount": 200000,
       "totalAfterDiscount": 200000,
-      "status": "Succeeded",
+      "status": "Successed",
       "address": {
         "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
         "phone": "0901397022",
@@ -1820,7 +1820,7 @@
       "date": "10-05-2022",
       "totalBeforeDiscount": 400000,
       "totalAfterDiscount": 400000,
-      "status": "Succeeded",
+      "status": "Pending",
       "address": {
         "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
         "phone": "0392808996",
@@ -1844,31 +1844,30 @@
       ]
     },
     {
-      "id": "order03",
+      "id": "order02",
       "date": "10-05-2022",
-      "total_before_discount": 200000,
-      "total_after_discount": 200000,
-      "status": "Successed",
+      "totalBeforeDiscount": 400000,
+      "totalAfterDiscount": 400000,
+      "status": "Failed",
       "address": {
-        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
-        "phone": "0901397022",
-        "name": "abc"
+        "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
+        "phone": "0392808996",
+        "name": "Lê Ngọc Minh"
       },
-      "payment_method": "Chuyển khoản ngân hàng",
-      "shipment_method": {
+      "paymentMethod": "Thanh toán khi nhận hàng",
+      "shipmentMethod": {
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "user": "35",
+      "user": "36",
       "items": [
         {
-          "id": "product01",
-          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
-          "price_before_discount": 400000,
-          "price_after_discount": 200000
+          "id": "product02",
+          "quantity": 2,
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "priceBeforeDiscount": 200000,
+          "priceAfterDiscount": 200000
         }
       ]
     }
