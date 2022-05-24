@@ -18,30 +18,15 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate04",
-        "sub_cate_10"
-      ],
-=======
       "category": ["cateShoes", "subCateSportShoes"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 400000,
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/Cw1fNbx/sp1.png"
-      ],
-      "quantity": "100",
-      "is_hot": true
-=======
       "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
       "quantity": 100,
       "sold": 50,
       "isHot": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product02",
@@ -61,27 +46,13 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate04",
-        "sub_cate_10"
-      ],
-=======
       "category": ["cateShoes", "subCateSportShoes"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 200000,
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/Bzps9yB/sp2.png"
-      ],
-      "quantity": "10"
-=======
       "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
       "quantity": 10
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product03",
@@ -101,27 +72,13 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_03"
-      ],
-=======
       "category": ["cate01", "subCateJacket"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 100000,
       "priceAfterDiscount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/QjjdqgR/sp3.png"
-      ],
-      "quantity": "100"
-=======
       "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
       "quantity": 100
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product04",
@@ -141,27 +98,13 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate04",
-        "sub_cate_11"
-      ],
-=======
       "category": ["cateShoes", "subCateSlippers"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/djcQ0Zv/sp4.png"
-      ],
-      "quantity": "10"
-=======
       "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
       "quantity": 10
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product05",
@@ -177,27 +120,13 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate02",
-        "sub_cate_04"
-      ],
-=======
       "category": ["catePants", "subCateJeans"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 300000,
       "priceAfterDiscount": 250000,
       "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/m0rZ9xD/sp5.png"
-      ],
-      "quantity": "30"
-=======
       "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
       "quantity": 30
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product06",
@@ -213,14 +142,7 @@
           "value": "silk"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_03"
-      ],
-=======
       "category": ["cate01", "subCateJacket"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 150000,
       "priceAfterDiscount": 135000,
@@ -230,13 +152,6 @@
         "https://i.ibb.co/LZWwNY2/sp6-sub-01.png",
         "https://i.ibb.co/smMKJ1r/sp6-sub-02.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "white",
-        "beige-colored"
-      ],
-      "quantity": "100"
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -256,7 +171,6 @@
       ],
       "quantity": 100,
       "sold": 20
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product07",
@@ -273,31 +187,17 @@
         }
       ],
       "category": [
-<<<<<<< HEAD
-        "cate03",
-        "sub_cate_06",
-        "sub_cate_07"
-=======
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       ],
       "status": "Available",
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/KN82k0g/sp7.png"
-      ],
-      "quantity": "15",
-      "is_hot": true
-=======
       "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
       "quantity": 15,
       "isHot": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product08",
@@ -314,15 +214,9 @@
         }
       ],
       "category": [
-<<<<<<< HEAD
-        "cate03",
-        "sub_cate_09",
-        "sub_cate_08"
-=======
         "cateDressAndSkirt",
         "subCateStrapDress",
         "subCatePartyDress"
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       ],
       "status": "Available",
       "priceBeforeDiscount": 500000,
@@ -332,14 +226,6 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "white",
-        "beige-colored"
-      ],
-      "quantity": "75",
-      "is_hot": true
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -360,7 +246,6 @@
       "quantity": 140,
       "sold": 20,
       "isHot": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product09",
@@ -376,14 +261,7 @@
           "value": "Lụa vân gỗ"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate03",
-        "sub_cate_08"
-      ],
-=======
       "category": ["cateDressAndSkirt", "subCatePartyDress"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 385000,
       "priceAfterDiscount": 370000,
@@ -393,15 +271,6 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
-<<<<<<< HEAD
-      "size": [
-        "M",
-        "L",
-        "XL"
-      ],
-      "quantity": "125",
-      "is_hot": true
-=======
       "size": ["M", "L", "XL"],
       "configurableOptions": [
         {
@@ -427,7 +296,6 @@
       "quantity": 60,
       "sold": 20,
       "isHot": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product10",
@@ -443,15 +311,7 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate02",
-        "sub_cate_04",
-        "sub_cate_05"
-      ],
-=======
       "category": ["catePants", "subCateJeans", "subCateKaki"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 85000,
       "priceAfterDiscount": 85000,
@@ -479,15 +339,7 @@
           "value": "Cotton"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate02",
-        "sub_cate_04",
-        "sub_cate_05"
-      ],
-=======
       "category": ["catePants", "subCateJeans", "subCateKaki"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 60000,
       "priceAfterDiscount": 60000,
@@ -518,29 +370,14 @@
           "value": "Oversized"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_01"
-      ],
-=======
       "category": ["cate01", "subCateTshirt"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 120000,
       "priceAfterDiscount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-<<<<<<< HEAD
-      "image": [
-        "https://i.ibb.co/1ntHrNB/sp12.png"
-      ],
-      "quantity": "200",
-      "is_hot": true
-=======
       "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
       "quantity": 200,
       "isHot": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product13",
@@ -560,14 +397,7 @@
           "value": "80cm"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_03"
-      ],
-=======
       "category": ["cate01", "subCateJacket"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 200000,
       "priceAfterDiscount": 119000,
@@ -578,16 +408,6 @@
         "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
         "https://i.ibb.co/DRz40Ds/sp13.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "blue",
-        "red",
-        "dark-green",
-        "pink"
-      ],
-      "quantity": "150",
-      "is_new": true
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -615,7 +435,6 @@
       ],
       "quantity": 80,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product14",
@@ -635,15 +454,7 @@
           "value": "Long sleeve"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "sub_cate_03"
-      ],
-=======
       "category": ["cate01", "subCateSomi", "subCateJacket"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 250000,
       "priceAfterDiscount": 250000,
@@ -675,15 +486,7 @@
           "value": "Long sleeve"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_02",
-        "sub_cate_03"
-      ],
-=======
       "category": ["cate01", "subCateSomi", "subCateJacket"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 350000,
       "priceAfterDiscount": 300000,
@@ -693,21 +496,6 @@
         "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
         "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
       ],
-<<<<<<< HEAD
-      "size": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "color": [
-        "black",
-        "brown",
-        "white"
-      ],
-      "quantity": "120",
-      "is_new": true
-=======
       "configurableOptions": [
         {
           "id": "optSize",
@@ -760,7 +548,6 @@
       "quantity": 120,
       "available": 165,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product16",
@@ -776,14 +563,7 @@
           "value": "Thun"
         }
       ],
-<<<<<<< HEAD
-      "category": [
-        "cate01",
-        "sub_cate_01"
-      ],
-=======
       "category": ["cate01", "subCateTshirt"],
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       "status": "Available",
       "priceBeforeDiscount": 90000,
       "priceAfterDiscount": 90000,
@@ -795,16 +575,6 @@
         "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
         "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "red",
-        "blue",
-        "white",
-        "black"
-      ],
-      "quantity": "205",
-      "is_new": true
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -833,7 +603,6 @@
       "quantity": 80,
       "sold": 20,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product17",
@@ -854,15 +623,9 @@
         }
       ],
       "category": [
-<<<<<<< HEAD
-        "cate03",
-        "sub_cate_06",
-        "sub_cate_07"
-=======
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       ],
       "status": "Available",
       "priceBeforeDiscount": 105000,
@@ -872,14 +635,6 @@
         "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
         "https://i.ibb.co/DbwxWhp/sp17.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "black",
-        "white"
-      ],
-      "quantity": "105",
-      "is_new": true
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -900,7 +655,6 @@
       "quantity": 105,
       "sold": 100,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product18",
@@ -921,15 +675,9 @@
         }
       ],
       "category": [
-<<<<<<< HEAD
-        "cate03",
-        "sub_cate_06",
-        "sub_cate_07"
-=======
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       ],
       "status": "Available",
       "priceBeforeDiscount": 160000,
@@ -939,19 +687,6 @@
         "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
         "https://i.ibb.co/W2B2kJN/sp18.png"
       ],
-<<<<<<< HEAD
-      "size": [
-        "S",
-        "M",
-        "L"
-      ],
-      "color": [
-        "white",
-        "black"
-      ],
-      "quantity": "200",
-      "is_new": true
-=======
       "size": ["S", "M", "L"],
       "color": ["white", "black"],
       "configurableOptions": [
@@ -991,7 +726,6 @@
       "quantity": 75,
       "sold": 40,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     },
     {
       "id": "product19",
@@ -1012,15 +746,9 @@
         }
       ],
       "category": [
-<<<<<<< HEAD
-        "cate03",
-        "sub_cate_06",
-        "sub_cate_07"
-=======
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
       ],
       "status": "Available",
       "priceBeforeDiscount": 150000,
@@ -1030,34 +758,6 @@
         "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
         "https://i.ibb.co/RScbfH1/sp19.png"
       ],
-<<<<<<< HEAD
-      "color": [
-        "blue",
-        "black"
-      ],
-      "quantity": "200",
-      "is_new": true
-    },
-    {
-      "name": "name",
-      "brand": "brand",
-      "attribute": [
-        {
-          "name": "insurances",
-          "value": "1 YEAR"
-        },
-        {
-          "name": "origin",
-          "value": "USA"
-        }
-      ],
-      "description": "desc",
-      "status": "status",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2FPicture1.jpg?alt=media&token=0f4ca808-bf92-4671-b0ee-97f4ea6f25cb",
-      "quantity": "quantity",
-      "price_before_discount": "price",
-      "id": "wYo2EZh"
-=======
       "configurableOptions": [
         {
           "id": "optColor",
@@ -1077,7 +777,6 @@
       ],
       "quantity": 105,
       "isNew": true
->>>>>>> 381d03ecc04920a46e647a0fa79eabfa70d88446
     }
   ],
   "user": [
