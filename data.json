@@ -18,12 +18,17 @@
           "value": "silk"
         }
       ],
-      "category": ["cate04", "sub_cate_10"],
+      "category": [
+        "cate04",
+        "sub_cate_10"
+      ],
       "status": "Available",
       "price_before_discount": 400000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+      "image": [
+        "https://i.ibb.co/Cw1fNbx/sp1.png"
+      ],
       "quantity": "100",
       "is_hot": true
     },
@@ -45,12 +50,17 @@
           "value": "silk"
         }
       ],
-      "category": ["cate04", "sub_cate_10"],
+      "category": [
+        "cate04",
+        "sub_cate_10"
+      ],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+      "image": [
+        "https://i.ibb.co/Bzps9yB/sp2.png"
+      ],
       "quantity": "10"
     },
     {
@@ -71,12 +81,17 @@
           "value": "silk"
         }
       ],
-      "category": ["cate01", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 100000,
       "price_after_discount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
+      "image": [
+        "https://i.ibb.co/QjjdqgR/sp3.png"
+      ],
       "quantity": "100"
     },
     {
@@ -97,12 +112,17 @@
           "value": "silk"
         }
       ],
-      "category": ["cate04", "sub_cate_11"],
+      "category": [
+        "cate04",
+        "sub_cate_11"
+      ],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
+      "image": [
+        "https://i.ibb.co/djcQ0Zv/sp4.png"
+      ],
       "quantity": "10"
     },
     {
@@ -119,12 +139,17 @@
           "value": "silk"
         }
       ],
-      "category": ["cate02", "sub_cate_04"],
+      "category": [
+        "cate02",
+        "sub_cate_04"
+      ],
       "status": "Available",
       "price_before_discount": 300000,
       "price_after_discount": 250000,
       "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
-      "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
+      "image": [
+        "https://i.ibb.co/m0rZ9xD/sp5.png"
+      ],
       "quantity": "30"
     },
     {
@@ -141,7 +166,10 @@
           "value": "silk"
         }
       ],
-      "category": ["cate01", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 150000,
       "price_after_discount": 135000,
@@ -151,7 +179,10 @@
         "https://i.ibb.co/LZWwNY2/sp6-sub-01.png",
         "https://i.ibb.co/smMKJ1r/sp6-sub-02.png"
       ],
-      "color": ["white", "beige-colored"],
+      "color": [
+        "white",
+        "beige-colored"
+      ],
       "quantity": "100"
     },
     {
@@ -168,12 +199,18 @@
           "value": "Silk"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
+      "image": [
+        "https://i.ibb.co/KN82k0g/sp7.png"
+      ],
       "quantity": "15",
       "is_hot": true
     },
@@ -191,7 +228,11 @@
           "value": "Coton"
         }
       ],
-      "category": ["cate03", "sub_cate_09", "sub_cate_08"],
+      "category": [
+        "cate03",
+        "sub_cate_09",
+        "sub_cate_08"
+      ],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
@@ -200,7 +241,10 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-      "color": ["white", "beige-colored"],
+      "color": [
+        "white",
+        "beige-colored"
+      ],
       "quantity": "75",
       "is_hot": true
     },
@@ -218,7 +262,10 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "category": ["cate03", "sub_cate_08"],
+      "category": [
+        "cate03",
+        "sub_cate_08"
+      ],
       "status": "Available",
       "price_before_discount": 385000,
       "price_after_discount": 370000,
@@ -228,7 +275,11 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
-      "size": ["M", "L", "XL"],
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
       "quantity": "125",
       "is_hot": true
     },
@@ -246,7 +297,11 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
+      "category": [
+        "cate02",
+        "sub_cate_04",
+        "sub_cate_05"
+      ],
       "status": "Available",
       "price_before_discount": 85000,
       "price_after_discount": 85000,
@@ -273,7 +328,11 @@
           "value": "Cotton"
         }
       ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
+      "category": [
+        "cate02",
+        "sub_cate_04",
+        "sub_cate_05"
+      ],
       "status": "Available",
       "price_before_discount": 60000,
       "price_after_discount": 60000,
@@ -303,12 +362,17 @@
           "value": "Oversized"
         }
       ],
-      "category": ["cate01", "sub_cate_01"],
+      "category": [
+        "cate01",
+        "sub_cate_01"
+      ],
       "status": "Available",
       "price_before_discount": 120000,
       "price_after_discount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
+      "image": [
+        "https://i.ibb.co/1ntHrNB/sp12.png"
+      ],
       "quantity": "200",
       "is_hot": true
     },
@@ -330,7 +394,10 @@
           "value": "80cm"
         }
       ],
-      "category": ["cate01", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 119000,
@@ -341,7 +408,12 @@
         "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
         "https://i.ibb.co/DRz40Ds/sp13.png"
       ],
-      "color": ["blue", "red", "dark-green", "pink"],
+      "color": [
+        "blue",
+        "red",
+        "dark-green",
+        "pink"
+      ],
       "quantity": "150",
       "is_new": true
     },
@@ -363,7 +435,11 @@
           "value": "Long sleeve"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_02",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 250000,
       "price_after_discount": 250000,
@@ -394,7 +470,11 @@
           "value": "Long sleeve"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_02",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 350000,
       "price_after_discount": 300000,
@@ -404,8 +484,17 @@
         "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
         "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
       ],
-      "size": ["S", "M", "L", "XL"],
-      "color": ["black", "brown", "white"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "black",
+        "brown",
+        "white"
+      ],
       "quantity": "120",
       "is_new": true
     },
@@ -423,7 +512,10 @@
           "value": "Thun"
         }
       ],
-      "category": ["cate01", "sub_cate_01"],
+      "category": [
+        "cate01",
+        "sub_cate_01"
+      ],
       "status": "Available",
       "price_before_discount": 90000,
       "price_after_discount": 90000,
@@ -435,7 +527,12 @@
         "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
         "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
       ],
-      "color": ["red", "blue", "white", "black"],
+      "color": [
+        "red",
+        "blue",
+        "white",
+        "black"
+      ],
       "quantity": "205",
       "is_new": true
     },
@@ -457,7 +554,11 @@
           "value": "Mini"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 105000,
       "price_after_discount": 95000,
@@ -466,7 +567,10 @@
         "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
         "https://i.ibb.co/DbwxWhp/sp17.png"
       ],
-      "color": ["black", "white"],
+      "color": [
+        "black",
+        "white"
+      ],
       "quantity": "105",
       "is_new": true
     },
@@ -488,7 +592,11 @@
           "value": "50cm"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 160000,
       "price_after_discount": 160000,
@@ -497,8 +605,15 @@
         "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
         "https://i.ibb.co/W2B2kJN/sp18.png"
       ],
-      "size": ["S", "M", "L"],
-      "color": ["white", "black"],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": [
+        "white",
+        "black"
+      ],
       "quantity": "200",
       "is_new": true
     },
@@ -520,7 +635,11 @@
           "value": "Da Nang"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 150000,
       "price_after_discount": 150000,
@@ -529,9 +648,32 @@
         "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
         "https://i.ibb.co/RScbfH1/sp19.png"
       ],
-      "color": ["blue", "black"],
+      "color": [
+        "blue",
+        "black"
+      ],
       "quantity": "200",
       "is_new": true
+    },
+    {
+      "name": "name",
+      "brand": "brand",
+      "attribute": [
+        {
+          "name": "insurances",
+          "value": "1 YEAR"
+        },
+        {
+          "name": "origin",
+          "value": "USA"
+        }
+      ],
+      "description": "desc",
+      "status": "status",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2FPicture1.jpg?alt=media&token=0f4ca808-bf92-4671-b0ee-97f4ea6f25cb",
+      "quantity": "quantity",
+      "price_before_discount": "price",
+      "id": "wYo2EZh"
     }
   ],
   "user": [
@@ -1496,7 +1638,9 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         },
@@ -1504,7 +1648,9 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         }
@@ -1518,7 +1664,9 @@
           "id": "product03",
           "quantity": 1,
           "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
-          "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
+          "image": [
+            "https://i.ibb.co/QjjdqgR/sp3.png"
+          ],
           "price_before_discount": 100000,
           "price_after_discount": 80000
         },
@@ -1526,7 +1674,9 @@
           "id": "product02",
           "quantity": 1,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
           "price_before_discount": 200000,
           "price_after_discount": 200000
         },
@@ -1534,7 +1684,9 @@
           "id": "product01",
           "quantity": 1,
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1548,7 +1700,7 @@
       "date": "10-05-2022",
       "total_before_discount": 200000,
       "total_after_discount": 200000,
-      "status": "Succeeded",
+      "status": "Pending",
       "address": {
         "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
         "phone": "0901397022",
@@ -1564,7 +1716,9 @@
         {
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
           "price_before_discount": 400000,
           "price_after_discount": 200000
         }
@@ -1575,7 +1729,7 @@
       "date": "10-05-2022",
       "total_before_discount": 400000,
       "total_after_discount": 400000,
-      "status": "Succeeded",
+      "status": "Failed",
       "address": {
         "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
         "phone": "0392808996",
@@ -1592,8 +1746,39 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
           "price_before_discount": 200000,
+          "price_after_discount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order03",
+      "date": "10-05-2022",
+      "total_before_discount": 200000,
+      "total_after_discount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "payment_method": "Chuyển khoản ngân hàng",
+      "shipment_method": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "user": "35",
+      "items": [
+        {
+          "id": "product01",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "price_before_discount": 400000,
           "price_after_discount": 200000
         }
       ]
@@ -1623,12 +1808,21 @@
           "value": "silk"
         }
       ],
-      "category": ["cate04", "sub_cate_10"],
+      "category": [
+        "cate04",
+        "sub_cate_10"
+      ],
       "status": "Available",
       "price_before_discount": 400000,
       "price_after_discount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+      "image": [
+        "https://i.ibb.co/Cw1fNbx/sp1.png",
+        "https://i.ibb.co/WtYk3QS/sp13-sub-01.png",
+        "https://i.ibb.co/CPgJPLd/sp13-sub-02.png",
+        "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
+        "https://i.ibb.co/DRz40Ds/sp13.png"
+      ],
       "quantity": "100",
       "is_hot": true
     },
@@ -1646,12 +1840,18 @@
           "value": "Silk"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
+      "image": [
+        "https://i.ibb.co/KN82k0g/sp7.png"
+      ],
       "quantity": "15",
       "is_hot": true
     },
@@ -1669,7 +1869,11 @@
           "value": "Coton"
         }
       ],
-      "category": ["cate03", "sub_cate_09", "sub_cate_08"],
+      "category": [
+        "cate03",
+        "sub_cate_09",
+        "sub_cate_08"
+      ],
       "status": "Available",
       "price_before_discount": 500000,
       "price_after_discount": 480000,
@@ -1678,7 +1882,10 @@
         "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
         "https://i.ibb.co/QNvrxwV/sp8.png"
       ],
-      "color": ["white", "beige-colored"],
+      "color": [
+        "white",
+        "beige-colored"
+      ],
       "quantity": "75",
       "is_hot": true
     },
@@ -1696,7 +1903,10 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "category": ["cate03", "sub_cate_08"],
+      "category": [
+        "cate03",
+        "sub_cate_08"
+      ],
       "status": "Available",
       "price_before_discount": 385000,
       "price_after_discount": 370000,
@@ -1706,7 +1916,11 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
-      "size": ["M", "L", "XL"],
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
       "quantity": "125",
       "is_hot": true
     },
@@ -1724,7 +1938,11 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
+      "category": [
+        "cate02",
+        "sub_cate_04",
+        "sub_cate_05"
+      ],
       "status": "Available",
       "price_before_discount": 85000,
       "price_after_discount": 85000,
@@ -1751,7 +1969,11 @@
           "value": "Cotton"
         }
       ],
-      "category": ["cate02", "sub_cate_04", "sub_cate_05"],
+      "category": [
+        "cate02",
+        "sub_cate_04",
+        "sub_cate_05"
+      ],
       "status": "Available",
       "price_before_discount": 60000,
       "price_after_discount": 60000,
@@ -1781,12 +2003,17 @@
           "value": "Oversized"
         }
       ],
-      "category": ["cate01", "sub_cate_01"],
+      "category": [
+        "cate01",
+        "sub_cate_01"
+      ],
       "status": "Available",
       "price_before_discount": 120000,
       "price_after_discount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
+      "image": [
+        "https://i.ibb.co/1ntHrNB/sp12.png"
+      ],
       "quantity": "200",
       "is_hot": true
     }
@@ -1810,7 +2037,10 @@
           "value": "80cm"
         }
       ],
-      "category": ["cate01", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 200000,
       "price_after_discount": 119000,
@@ -1821,7 +2051,12 @@
         "https://i.ibb.co/4TpZh5w/sp13-sub-03.png",
         "https://i.ibb.co/DRz40Ds/sp13.png"
       ],
-      "color": ["blue", "red", "dark-green", "pink"],
+      "color": [
+        "blue",
+        "red",
+        "dark-green",
+        "pink"
+      ],
       "quantity": "150",
       "is_new": true
     },
@@ -1843,7 +2078,11 @@
           "value": "Long sleeve"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_02",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 250000,
       "price_after_discount": 250000,
@@ -1874,7 +2113,11 @@
           "value": "Long sleeve"
         }
       ],
-      "category": ["cate01", "sub_cate_02", "sub_cate_03"],
+      "category": [
+        "cate01",
+        "sub_cate_02",
+        "sub_cate_03"
+      ],
       "status": "Available",
       "price_before_discount": 350000,
       "price_after_discount": 300000,
@@ -1884,8 +2127,17 @@
         "https://i.ibb.co/K0hrYpq/sp15-sub-02.png",
         "https://i.ibb.co/7xcZsDr/sp15-sub-01.png"
       ],
-      "size": ["S", "M", "L", "XL"],
-      "color": ["black", "brown", "white"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "black",
+        "brown",
+        "white"
+      ],
       "quantity": "120",
       "is_new": true
     },
@@ -1903,7 +2155,10 @@
           "value": "Thun"
         }
       ],
-      "category": ["cate01", "sub_cate_01"],
+      "category": [
+        "cate01",
+        "sub_cate_01"
+      ],
       "status": "Available",
       "price_before_discount": 90000,
       "price_after_discount": 90000,
@@ -1915,7 +2170,12 @@
         "https://i.ibb.co/b17GkgP/sp16-sub-02.png",
         "https://i.ibb.co/0BqFq7c/sp16-sub-03.png"
       ],
-      "color": ["red", "blue", "white", "black"],
+      "color": [
+        "red",
+        "blue",
+        "white",
+        "black"
+      ],
       "quantity": "205",
       "is_new": true
     },
@@ -1937,7 +2197,11 @@
           "value": "Mini"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 105000,
       "price_after_discount": 95000,
@@ -1946,7 +2210,10 @@
         "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
         "https://i.ibb.co/DbwxWhp/sp17.png"
       ],
-      "color": ["black", "white"],
+      "color": [
+        "black",
+        "white"
+      ],
       "quantity": "105",
       "is_new": true
     },
@@ -1968,7 +2235,11 @@
           "value": "50cm"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 160000,
       "price_after_discount": 160000,
@@ -1977,8 +2248,15 @@
         "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
         "https://i.ibb.co/W2B2kJN/sp18.png"
       ],
-      "size": ["S", "M", "L"],
-      "color": ["white", "black"],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": [
+        "white",
+        "black"
+      ],
       "quantity": "200",
       "is_new": true
     },
@@ -2000,7 +2278,11 @@
           "value": "Da Nang"
         }
       ],
-      "category": ["cate03", "sub_cate_06", "sub_cate_07"],
+      "category": [
+        "cate03",
+        "sub_cate_06",
+        "sub_cate_07"
+      ],
       "status": "Available",
       "price_before_discount": 150000,
       "price_after_discount": 150000,
@@ -2009,9 +2291,68 @@
         "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
         "https://i.ibb.co/RScbfH1/sp19.png"
       ],
-      "color": ["blue", "black"],
+      "color": [
+        "blue",
+        "black"
+      ],
       "quantity": "200",
       "is_new": true
+    }
+  ],
+  "options": [
+    {
+      "id": "01",
+      "name": "Insurance",
+      "details": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "1 YEAR",
+          "value": "1 YEAR"
+        },
+        {
+          "key": "2 YEARS",
+          "value": "2 YEARS"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Origin",
+      "details": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "USA",
+          "value": "USA"
+        },
+        {
+          "key": "VN",
+          "value": "VN"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Material",
+      "details": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "SILK",
+          "value": "SILK"
+        },
+        {
+          "key": "COTTON",
+          "value": "COTTON"
+        }
+      ]
     }
   ]
 }
