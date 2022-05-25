@@ -1876,5 +1876,22 @@
     "https://i.ibb.co/6D0QMZH/banner3.jpg",
     "https://i.ibb.co/gWfw8Bc/banner1.jpg",
     "https://i.ibb.co/Gk5qxZH/banner2.jpg"
-  ]
+  ],
+  "options":{
+    "insurances": [
+      { "key": "Select option", "value": "" },
+      { "key": "1 YEAR", "value": "1 YEAR" },
+      { "key": "2 YEARS", "value": "2 YEARS" }
+    ],
+    "origin": [
+      { "key": "Select option", "value": "" },
+      { "key": "USA", "value": "USA" },
+      { "key": "VN", "value": "VN" }
+    ],
+    "material": [
+      { "key": "Select option", "value": ""},
+      { "key": "SILK", "value": "SILK" },
+      { "key": "COTTON", "value": "COTTON" }
+    ]
+  }
 }
