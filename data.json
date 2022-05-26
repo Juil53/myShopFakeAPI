@@ -161,6 +161,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "white",
           "available": 50
         },
@@ -235,6 +236,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "white",
           "available": 120
         },
@@ -281,6 +283,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optSize": "M",
           "available": 20
         },
@@ -417,6 +420,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "red",
           "available": 20
         },
@@ -510,6 +514,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optSize": "S",
           "optColor": "black",
           "available": 15
@@ -584,6 +589,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "red",
           "available": 20
         },
@@ -644,6 +650,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "white",
           "available": 50
         },
@@ -703,6 +710,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optSize": "S",
           "optColor": "black",
           "available": 15
@@ -767,6 +775,7 @@
       ],
       "configurableProducts": [
         {
+          "selected": true,
           "optColor": "blue",
           "available": 50
         },
