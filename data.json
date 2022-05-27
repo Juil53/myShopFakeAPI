@@ -273,7 +273,6 @@
         "https://i.ibb.co/gdrh0CS/sp9-sub-02.png",
         "https://i.ibb.co/Pjp90nJ/sp9.png"
       ],
-      "size": ["M", "L", "XL"],
       "configurableOptions": [
         {
           "id": "optSize",
