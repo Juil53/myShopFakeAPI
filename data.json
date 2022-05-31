@@ -1,86 +1,6 @@
 {
   "products": [
     {
-      "id": "product01",
-      "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-      "brand": "UK",
-      "attributes": [
-        {
-          "name": "Insurance",
-          "value": "12 months"
-        },
-        {
-          "name": "Origin",
-          "value": "USA"
-        },
-        {
-          "name": "Material",
-          "value": "silk"
-        }
-      ],
-      "category": ["cateShoes", "subCateSportShoes"],
-      "status": "Available",
-      "priceBeforeDiscount": 400000,
-      "priceAfterDiscount": 200000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
-      "quantity": 100,
-      "sold": 50,
-      "isHot": true
-    },
-    {
-      "id": "product02",
-      "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-      "brand": "Giày cao cấp",
-      "attributes": [
-        {
-          "name": "Insurance",
-          "value": "6 months"
-        },
-        {
-          "name": "Origin",
-          "value": "American"
-        },
-        {
-          "name": "Material",
-          "value": "silk"
-        }
-      ],
-      "category": ["cateShoes", "subCateSportShoes"],
-      "status": "Available",
-      "priceBeforeDiscount": 200000,
-      "priceAfterDiscount": 200000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
-      "quantity": 10
-    },
-    {
-      "id": "product03",
-      "name": "Áo khoác thám hiểm thương hiệu nổi tiếng Nhật Bản",
-      "brand": "Thương hiệu nổi tiếng Nhật Bản",
-      "attributes": [
-        {
-          "name": "Insurance",
-          "value": "12 months"
-        },
-        {
-          "name": "Origin",
-          "value": "USA"
-        },
-        {
-          "name": "Material",
-          "value": "silk"
-        }
-      ],
-      "category": ["cate01", "subCateJacket"],
-      "status": "Available",
-      "priceBeforeDiscount": 100000,
-      "priceAfterDiscount": 80000,
-      "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
-      "quantity": 100
-    },
-    {
       "id": "product04",
       "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
       "brand": "Giày dép Nhật Tân",
@@ -681,7 +601,7 @@
         }
       ],
       "category": [
-        "cateDressAndSkirt",
+        { "id": "cateDressAndSkirt" },
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
       ],
@@ -785,11 +705,23 @@
       ],
       "quantity": 105,
       "isNew": true
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attribute": [],
+      "description": "",
+      "status": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Favatar2.jpg?alt=media&token=0d1a1a42-a696-4b1b-9757-ec05bbda65b2",
+      "quantity": 0,
+      "priceBeforeDiscount": 0,
+      "isHot": false,
+      "id": "Vc0wBls"
     }
   ],
   "user": [
     {
-      "firstname": "Andeeev 123",
+      "firstname": "Andeeev",
       "lastname": "Nicholes",
       "password": "jgxQo5FX4",
       "email": "anicholes2@soup.io",
@@ -2074,47 +2006,126 @@
     "https://i.ibb.co/gWfw8Bc/banner1.jpg",
     "https://i.ibb.co/Gk5qxZH/banner2.jpg"
   ],
-  "options": {
-    "insurances": [
+  "options": [
+    {
+      "id": "insurances",
+      "name": "Insurances",
+      "data": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "1 YEAR",
+          "value": "1 YEAR"
+        },
+        {
+          "key": "2 YEARS",
+          "value": "2 YEARS"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "name": "Origin",
+      "data": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "USA",
+          "value": "USA"
+        },
+        {
+          "key": "VN",
+          "value": "VN"
+        }
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "data": [
+        {
+          "key": "Select option",
+          "value": ""
+        },
+        {
+          "key": "SILK",
+          "value": "SILK"
+        },
+        {
+          "key": "COTTON",
+          "value": "COTTON"
+        }
+      ]
+    }
+  ],
+
+  "optionsCategories": {
+    "cateShirt": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "1 YEAR",
-        "value": "1 YEAR"
+        "key": "subCateTshirt",
+        "value": "subCateTshirt"
       },
       {
-        "key": "2 YEARS",
-        "value": "2 YEARS"
+        "key": "subCateSomi",
+        "value": "subCateSomi"
+      },
+      {
+        "key": "subCateJacket",
+        "value": "subCateJacket"
       }
     ],
-    "origin": [
+    "catePants": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "USA",
-        "value": "USA"
+        "key": "subCateJeans",
+        "value": "subCateJeans"
       },
       {
-        "key": "VN",
-        "value": "VN"
+        "key": "subCateKaki",
+        "value": "subCateKaki"
       }
     ],
-    "material": [
+    "cateDressAndSkirt": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "SILK",
-        "value": "SILK"
+        "key": "subCatePleaterSkirt",
+        "value": "subCatePleaterSkirt"
       },
       {
-        "key": "COTTON",
-        "value": "COTTON"
+        "key": "subCateJeanSkirt",
+        "value": "subCateJeanSkirt"
+      },
+      {
+        "key": "subCatePartyDress",
+        "value": "subCatePartyDress"
+      },
+      {
+        "key": "subCateStrapDress",
+        "value": "subCateStrapDress"
+      }
+    ],
+    "cateShoes": [
+      {
+        "key": "subCateSportShoes",
+        "value": "subCateSportShoes"
+      },
+      {
+        "key": "subCateSlippers",
+        "value": "subCateSlippers"
       }
     ]
   }
