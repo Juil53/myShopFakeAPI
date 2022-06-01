@@ -24,7 +24,7 @@
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
-      "quantity": 100,
+      "available": 100,
       "sold": 50,
       "isHot": true
     },
@@ -52,7 +52,7 @@
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
-      "quantity": 10
+      "available": 10
     },
     {
       "id": "product03",
@@ -78,7 +78,7 @@
       "priceAfterDiscount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
-      "quantity": 100
+      "available": 100
     },
     {
       "id": "product04",
@@ -104,7 +104,7 @@
       "priceAfterDiscount": 450000,
       "desc": "Giày nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
       "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
-      "quantity": 10
+      "available": 10
     },
     {
       "id": "product05",
@@ -126,7 +126,7 @@
       "priceAfterDiscount": 250000,
       "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
       "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
-      "quantity": 30
+      "available": 30
     },
     {
       "id": "product06",
@@ -170,7 +170,7 @@
           "available": 50
         }
       ],
-      "quantity": 100,
+      "available": 100,
       "sold": 20
     },
     {
@@ -197,7 +197,7 @@
       "priceAfterDiscount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
       "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
-      "quantity": 15,
+      "available": 15,
       "isHot": true
     },
     {
@@ -245,7 +245,7 @@
           "available": 20
         }
       ],
-      "quantity": 140,
+      "available": 140,
       "sold": 20,
       "isHot": true
     },
@@ -295,7 +295,7 @@
           "available": 20
         }
       ],
-      "quantity": 60,
+      "available": 60,
       "sold": 20,
       "isHot": true
     },
@@ -323,7 +323,7 @@
         "https://i.ibb.co/mtbyzfG/sp10-sub-02.png",
         "https://i.ibb.co/DCqvvsr/sp10-sub-01.png"
       ],
-      "quantity": 125,
+      "available": 125,
       "sold": 120,
       "isHot": true
     },
@@ -350,7 +350,7 @@
         "https://i.ibb.co/5jxbKPd/sp11.png",
         "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
       ],
-      "quantity": 200,
+      "available": 200,
       "sold": 50,
       "isHot": true
     },
@@ -378,7 +378,7 @@
       "priceAfterDiscount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
       "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
-      "quantity": 200,
+      "available": 200,
       "isHot": true
     },
     {
@@ -436,7 +436,7 @@
           "available": 20
         }
       ],
-      "quantity": 80,
+      "available": 80,
       "isNew": true
     },
     {
@@ -467,7 +467,7 @@
         "https://i.ibb.co/n3QMSgk/sp14-sub-02.png",
         "https://i.ibb.co/KL65T8t/sp14-sub-01.png"
       ],
-      "quantity": 150,
+      "available": 150,
       "sold": 60,
       "isNew": true
     },
@@ -549,7 +549,7 @@
           "available": 15
         }
       ],
-      "quantity": 120,
+      "available": 120,
       "available": 165,
       "isNew": true
     },
@@ -605,7 +605,7 @@
           "available": 20
         }
       ],
-      "quantity": 80,
+      "available": 80,
       "sold": 20,
       "isNew": true
     },
@@ -658,7 +658,7 @@
           "available": 25
         }
       ],
-      "quantity": 105,
+      "available": 105,
       "sold": 100,
       "isNew": true
     },
@@ -730,7 +730,7 @@
           "available": 20
         }
       ],
-      "quantity": 75,
+      "available": 75,
       "sold": 40,
       "isNew": true
     },
@@ -783,7 +783,7 @@
           "available": 55
         }
       ],
-      "quantity": 105,
+      "available": 105,
       "isNew": true
     }
   ],
