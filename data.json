@@ -681,7 +681,9 @@
         }
       ],
       "category": [
-        "cateDressAndSkirt",
+        {
+          "id": "cateDressAndSkirt"
+        },
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
       ],
@@ -789,7 +791,7 @@
   ],
   "user": [
     {
-      "firstname": "Andeeev 123",
+      "firstname": "Andeeev",
       "lastname": "Nicholes",
       "password": "jgxQo5FX4",
       "email": "anicholes2@soup.io",
@@ -2074,47 +2076,113 @@
     "https://i.ibb.co/gWfw8Bc/banner1.jpg",
     "https://i.ibb.co/Gk5qxZH/banner2.jpg"
   ],
-  "options": {
-    "insurances": [
+  "options": [
+    {
+      "id": "insurances",
+      "name": "Insurances",
+      "data": [
+        {
+          "key": "1 YEAR",
+          "value": "1 YEAR"
+        },
+        {
+          "key": "2 YEARS",
+          "value": "2 YEARS"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "name": "Origin",
+      "data": [
+        {
+          "key": "USA",
+          "value": "USA"
+        },
+        {
+          "key": "VN",
+          "value": "VN"
+        }
+      ]
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "data": [
+        {
+          "key": "SILK",
+          "value": "SILK"
+        },
+        {
+          "key": "COTTON",
+          "value": "COTTON"
+        }
+      ]
+    }
+  ],
+  "optionsCategories": {
+    "cateShirt": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "1 YEAR",
-        "value": "1 YEAR"
+        "key": "subCateTshirt",
+        "value": "subCateTshirt"
       },
       {
-        "key": "2 YEARS",
-        "value": "2 YEARS"
+        "key": "subCateSomi",
+        "value": "subCateSomi"
+      },
+      {
+        "key": "subCateJacket",
+        "value": "subCateJacket"
       }
     ],
-    "origin": [
+    "catePants": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "USA",
-        "value": "USA"
+        "key": "subCateJeans",
+        "value": "subCateJeans"
       },
       {
-        "key": "VN",
-        "value": "VN"
+        "key": "subCateKaki",
+        "value": "subCateKaki"
       }
     ],
-    "material": [
+    "cateDressAndSkirt": [
       {
         "key": "Select option",
         "value": ""
       },
       {
-        "key": "SILK",
-        "value": "SILK"
+        "key": "subCatePleaterSkirt",
+        "value": "subCatePleaterSkirt"
       },
       {
-        "key": "COTTON",
-        "value": "COTTON"
+        "key": "subCateJeanSkirt",
+        "value": "subCateJeanSkirt"
+      },
+      {
+        "key": "subCatePartyDress",
+        "value": "subCatePartyDress"
+      },
+      {
+        "key": "subCateStrapDress",
+        "value": "subCateStrapDress"
+      }
+    ],
+    "cateShoes": [
+      {
+        "key": "subCateSportShoes",
+        "value": "subCateSportShoes"
+      },
+      {
+        "key": "subCateSlippers",
+        "value": "subCateSlippers"
       }
     ]
   }
