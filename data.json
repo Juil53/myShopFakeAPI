@@ -15,7 +15,7 @@
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "SILK"
         }
       ],
       "category": [
@@ -48,7 +48,7 @@
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "Silk"
         }
       ],
       "category": [
@@ -2258,7 +2258,7 @@
   "options": [
     {
       "id": "insurances",
-      "name": "Insurances",
+      "name": "Insurance",
       "data": [
         {
           "key": "1 YEAR",
