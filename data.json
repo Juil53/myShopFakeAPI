@@ -7,7 +7,7 @@
       "attributes": [
         {
           "name": "Insurance",
-          "value": "12 months"
+          "value": "1 YEAR"
         },
         {
           "name": "Origin",
@@ -18,9 +18,11 @@
           "value": "SILK"
         }
       ],
-      "category": [
-        "cateShoes",
-        "subCateSportShoes"
+      "categories": [
+        {
+          "name": "cateShoes",
+          "value": "subCateSportShoes"
+        }
       ],
       "status": "Available",
       "priceBeforeDiscount": 400000,
@@ -40,7 +42,7 @@
       "attributes": [
         {
           "name": "Insurance",
-          "value": "6 months"
+          "value": "6 MONTHS"
         },
         {
           "name": "Origin",
@@ -48,10 +50,10 @@
         },
         {
           "name": "Material",
-          "value": "Silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "cateShoes",
         "subCateSportShoes"
       ],
@@ -71,7 +73,7 @@
       "attributes": [
         {
           "name": "Insurance",
-          "value": "12 months"
+          "value": "1 YEAR"
         },
         {
           "name": "Origin",
@@ -79,10 +81,10 @@
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateJacket"
       ],
@@ -102,7 +104,7 @@
       "attributes": [
         {
           "name": "Insurance",
-          "value": "12 months"
+          "value": "1 YEAR"
         },
         {
           "name": "Origin",
@@ -110,10 +112,10 @@
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "cateShoes",
         "subCateSlippers"
       ],
@@ -137,10 +139,10 @@
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "catePants",
         "subCateJeans"
       ],
@@ -160,14 +162,14 @@
       "attributes": [
         {
           "name": "Origin",
-          "value": "Korean"
+          "value": "Korea"
         },
         {
           "name": "Material",
-          "value": "silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateJacket"
       ],
@@ -215,10 +217,10 @@
         },
         {
           "name": "Material",
-          "value": "Silk"
+          "value": "SILK"
         }
       ],
-      "category": [
+      "categories": [
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
@@ -244,10 +246,10 @@
         },
         {
           "name": "Material",
-          "value": "Coton"
+          "value": "COTTON"
         }
       ],
-      "category": [
+      "categories": [
         "cateDressAndSkirt",
         "subCateStrapDress",
         "subCatePartyDress"
@@ -299,7 +301,7 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "category": [
+      "categories": [
         "cateDressAndSkirt",
         "subCatePartyDress"
       ],
@@ -356,7 +358,7 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "category": [
+      "categories": [
         "catePants",
         "subCateJeans",
         "subCateKaki"
@@ -385,10 +387,10 @@
         },
         {
           "name": "Material",
-          "value": "Cotton"
+          "value": "COTTON"
         }
       ],
-      "category": [
+      "categories": [
         "catePants",
         "subCateJeans",
         "subCateKaki"
@@ -416,14 +418,14 @@
         },
         {
           "name": "Material",
-          "value": "Cotton"
+          "value": "COTTON"
         },
         {
           "name": "Style",
-          "value": "Oversized"
+          "value": "OVERSIZED"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateTshirt"
       ],
@@ -448,14 +450,14 @@
         },
         {
           "name": "Material",
-          "value": "thun mát"
+          "value": "THUN"
         },
         {
           "name": "Sleeve length",
           "value": "80cm"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateJacket"
       ],
@@ -514,14 +516,14 @@
         },
         {
           "name": "Material",
-          "value": "Vintexx"
+          "value": "VINTEXX"
         },
         {
           "name": "Sleeve length",
           "value": "Long sleeve"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateSomi",
         "subCateJacket"
@@ -557,7 +559,7 @@
           "value": "Long sleeve"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateSomi",
         "subCateJacket"
@@ -644,10 +646,10 @@
         },
         {
           "name": "Material",
-          "value": "Thun"
+          "value": "THUN"
         }
       ],
-      "category": [
+      "categories": [
         "cate01",
         "subCateTshirt"
       ],
@@ -708,14 +710,14 @@
         },
         {
           "name": "Material",
-          "value": "Silk"
+          "value": "SILK"
         },
         {
           "name": "Length",
           "value": "Mini"
         }
       ],
-      "category": [
+      "categories": [
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
@@ -760,18 +762,18 @@
       "attributes": [
         {
           "name": "Origin",
-          "value": "American"
+          "value": "Usa"
         },
         {
           "name": "Material",
-          "value": "Cotton"
+          "value": "COTTON"
         },
         {
           "name": "Length",
           "value": "50cm"
         }
       ],
-      "category": [
+      "categories": [
         {
           "id": "cateDressAndSkirt"
         },
@@ -852,14 +854,14 @@
         },
         {
           "name": "Material",
-          "value": "Cotton"
+          "value": "COTTON"
         },
         {
           "name": "Shipping from",
           "value": "Da Nang"
         }
       ],
-      "category": [
+      "categories": [
         "cateDressAndSkirt",
         "subCatePleaterSkirt",
         "subCateJeanSkirt"
@@ -936,6 +938,118 @@
       "isHot": true,
       "isNew": true,
       "id": "AK17d12"
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attributes": [
+        {
+          "name": "Insurance",
+          "value": "6 MONTHS"
+        }
+      ],
+      "categories": [
+        null
+      ],
+      "desc": "",
+      "status": "test",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=737c7e6f-3928-4814-9788-cea9af04bb08",
+      "available": 0,
+      "priceBeforeDiscount": 0,
+      "priceAfterDiscount": 0,
+      "isHot": false,
+      "isNew": false,
+      "id": "PliiQns"
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attributes": [],
+      "categories": [
+        {
+          "id": "cateShirt",
+          "subCate": [
+            "subCateTshirt"
+          ]
+        }
+      ],
+      "desc": "",
+      "status": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=6d527d27-c369-49be-bf52-82ae36e2ec1b",
+      "available": 0,
+      "priceBeforeDiscount": 0,
+      "priceAfterDiscount": 0,
+      "isHot": false,
+      "isNew": false,
+      "id": "Bnk7kek"
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attributes": [],
+      "categories": [
+        {
+          "id": "cateShirt",
+          "subCate": [
+            "subCateTshirt"
+          ]
+        }
+      ],
+      "desc": "",
+      "status": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=f7f0b39c-f96f-4ace-844e-961a112d09b6",
+      "available": 0,
+      "priceBeforeDiscount": 0,
+      "priceAfterDiscount": 0,
+      "isHot": false,
+      "isNew": false,
+      "id": "9hw-gkx"
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attributes": [],
+      "categories": [
+        {
+          "id": "catePants",
+          "subCate": [
+            "subCateJeans",
+            "subCateKaki"
+          ]
+        }
+      ],
+      "desc": "",
+      "status": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=5454334c-d73c-4dc5-8eb5-3b888275c27a",
+      "available": 0,
+      "priceBeforeDiscount": 0,
+      "priceAfterDiscount": 0,
+      "isHot": false,
+      "isNew": false,
+      "id": "IEt9046"
+    },
+    {
+      "name": "",
+      "brand": "",
+      "attributes": [],
+      "categories": [
+        {
+          "name": "catePants",
+          "value": [
+            "subCateJeans",
+            "subCateKaki"
+          ]
+        }
+      ],
+      "desc": "",
+      "status": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=982de1dd-fa0c-4476-9213-acffec5c76af",
+      "available": 0,
+      "priceBeforeDiscount": 0,
+      "priceAfterDiscount": 0,
+      "isHot": false,
+      "isNew": false,
+      "id": "sxdi33E"
     }
   ],
   "user": [
@@ -2261,6 +2375,10 @@
       "name": "Insurance",
       "data": [
         {
+          "key": "6 MONTHS",
+          "value": "6 MONTHS"
+        },
+        {
           "key": "1 YEAR",
           "value": "1 YEAR"
         },
@@ -2307,6 +2425,50 @@
         {
           "key": "COTTON",
           "value": "COTTON"
+        },
+        {
+          "key": "LUA",
+          "value": "Lụa vân gỗ"
+        },
+        {
+          "key": "TUYPSI",
+          "value": "Tuypsi Hàn Quốc"
+        },
+        {
+          "key": "THUN",
+          "value": "THUN"
+        },
+        {
+          "key": "VINTEXX",
+          "value": "VINTEXX"
+        },
+        {
+          "key": "THIN CHIFFRON",
+          "value": "THIN CHIFFRON"
+        }
+      ]
+    },
+    {
+      "id": "style",
+      "name": "Style",
+      "data": [
+        {
+          "key": "OVERSIZED",
+          "value": "OVERSIZED"
+        }
+      ]
+    },
+    {
+      "id": "sleeve length",
+      "name": "Sleeve length",
+      "data": [
+        {
+          "key": "80cm",
+          "value": "80cm"
+        },
+        {
+          "key": "Long sleeve",
+          "value": "Long sleeve"
         }
       ]
     }
