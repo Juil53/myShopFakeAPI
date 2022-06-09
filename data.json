@@ -901,193 +901,36 @@
     {
       "name": "test",
       "brand": "",
-      "attributes": [],
-      "categories": [
-        [
-          "subCateTshirt",
-          "subCateSomi",
-          "cateShirt"
-        ]
-      ],
-      "desc": "",
-      "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=3a9876e4-2121-4aa0-a338-b845967c52b5",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": true,
-      "isNew": true,
-      "id": "g9pP4Ou"
-    },
-    {
-      "name": "test1",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        [
-          "subCateTshirt",
-          "cateShirt"
-        ]
-      ],
-      "desc": "test",
-      "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=66ccc91b-c82b-4f88-ad74-5dc540618db5",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": true,
-      "isNew": true,
-      "id": "AK17d12"
-    },
-    {
-      "name": "",
-      "brand": "",
       "attributes": [
         {
-          "name": "Insurance",
-          "value": "6 MONTHS"
+          "name": "Origin",
+          "value": "Viet Nam"
         }
       ],
-      "categories": [
-        null
-      ],
-      "desc": "",
-      "status": "test",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=737c7e6f-3928-4814-9788-cea9af04bb08",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "PliiQns"
-    },
-    {
-      "name": "",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        {
-          "id": "cateShirt",
-          "subCate": [
-            "subCateTshirt"
-          ]
-        }
-      ],
+      "categories": [],
       "desc": "",
       "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=6d527d27-c369-49be-bf52-82ae36e2ec1b",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "Bnk7kek"
-    },
-    {
-      "name": "",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        {
-          "id": "cateShirt",
-          "subCate": [
-            "subCateTshirt"
-          ]
-        }
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Favatar2.jpg?alt=media&token=4fe657bf-c1bb-4da9-9e31-5da220c4e75a",
+        "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fbgmoviedetail.jpg?alt=media&token=6c956f77-db98-4d9d-ba42-ef247232f2b6"
       ],
-      "desc": "",
-      "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=f7f0b39c-f96f-4ace-844e-961a112d09b6",
       "available": 0,
       "priceBeforeDiscount": 0,
       "priceAfterDiscount": 0,
       "isHot": false,
       "isNew": false,
-      "id": "9hw-gkx"
-    },
-    {
-      "name": "",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        {
-          "id": "catePants",
-          "subCate": [
-            "subCateJeans",
-            "subCateKaki"
-          ]
-        }
-      ],
-      "desc": "",
-      "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=5454334c-d73c-4dc5-8eb5-3b888275c27a",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "IEt9046"
-    },
-    {
-      "name": "",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        {
-          "name": "catePants",
-          "value": [
-            "subCateJeans",
-            "subCateKaki"
-          ]
-        }
-      ],
-      "desc": "",
-      "status": "",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fundefined?alt=media&token=982de1dd-fa0c-4476-9213-acffec5c76af",
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "sxdi33E"
+      "id": "7Ai7vf-"
     }
   ],
   "user": [
     {
-      "firstname": "Andeeev",
-      "lastname": "Nicholes",
-      "password": "jgxQo5FX4",
-      "email": "anicholes2@soup.io",
-      "phonenumber": "367-661-0125",
-      "role": "Client",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "firstname": "Nicolea",
-      "lastname": "Maker",
-      "email": "nmaker3@phoca.cz",
-      "password": "wZ7kObPS",
-      "phonenumber": "908-569-8808",
-      "role": "Client"
-    },
-    {
-      "id": 5,
-      "firstname": "Erena",
-      "lastname": "Oen",
-      "email": "eoen4@free.fr",
-      "password": "azHBxlhuu9T",
-      "phonenumber": "162-306-5717",
-      "role": "Client"
-    },
-    {
-      "id": 6,
-      "firstname": "Quintin",
+      "firstname": "Quintin123",
       "lastname": "Brimham",
-      "email": "qbrimham5@cmu.edu",
       "password": "PyReeW0H32",
+      "email": "qbrimham5@cmu.edu",
       "phonenumber": "609-182-3994",
-      "role": "Admin"
+      "role": "Client",
+      "id": 6
     },
     {
       "id": 7,
@@ -1441,13 +1284,13 @@
       "role": "Client"
     },
     {
-      "id": 46,
-      "firstname": "Juanita",
+      "firstname": "Juanita 12",
       "lastname": "Conklin",
-      "email": "jconklin19@squidoo.com",
       "password": "AFGUmCWzif5",
+      "email": "jconklin19@squidoo.com",
       "phonenumber": "733-218-8789",
-      "role": "Client"
+      "role": "Client",
+      "id": 46
     },
     {
       "id": 47,
@@ -1909,31 +1752,13 @@
       "role": "Client"
     },
     {
-      "id": 98,
-      "firstname": "Elizabeth",
+      "firstname": "Elizabeth 123",
       "lastname": "Iapico",
-      "email": "eiapico2p@goo.gl",
       "password": "i5bTpjNi",
+      "email": "eiapico2p@goo.gl",
       "phonenumber": "881-908-4596",
-      "role": "Admin"
-    },
-    {
-      "id": 99,
-      "firstname": "Munroe",
-      "lastname": "Marquiss",
-      "email": "mmarquiss2q@quantcast.com",
-      "password": "xZb2rneRLs2",
-      "phonenumber": "188-180-9007",
-      "role": "Admin"
-    },
-    {
-      "id": 100,
-      "firstname": "Shirleen",
-      "lastname": "Runacres",
-      "email": "srunacres2r@feedburner.com",
-      "password": "c1iSTtiE",
-      "phonenumber": "394-647-6043",
-      "role": "Client"
+      "role": "Admin",
+      "id": 98
     }
   ],
   "categories": [
@@ -2074,28 +1899,29 @@
     {
       "id": "order01",
       "date": "10-05-2022",
-      "totalBeforeDiscount": 200000,
-      "totalAfterDiscount": 200000,
+      "totalBeforeDiscount": 400000,
+      "totalAfterDiscount": 400000,
       "status": "Successed",
       "address": {
-        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
-        "phone": "0901397022",
-        "name": "abc"
+        "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
+        "phone": "0392808996",
+        "name": "Lê Ngọc Minh"
       },
-      "paymentMethod": "Chuyển khoản ngân hàng",
+      "paymentMethod": "Thanh toán khi nhận hàng",
       "shipmentMethod": {
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId": 35,
+      "userId": 36,
       "items": [
         {
-          "id": "product01",
-          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "id": "product02",
+          "quantity": 2,
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
           "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
+            "https://i.ibb.co/Bzps9yB/sp2.png"
           ],
-          "priceBeforeDiscount": 400000,
+          "priceBeforeDiscount": 200000,
           "priceAfterDiscount": 200000
         }
       ]
@@ -2336,10 +2162,10 @@
     },
     {
       "id": "order10",
-      "date": "10-05-2022",
+      "date": "15-05-2022",
       "totalBeforeDiscount": 200000,
       "totalAfterDiscount": 200000,
-      "status": "Pending",
+      "status": "Successed",
       "address": {
         "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
         "phone": "0901397022",
@@ -2353,7 +2179,387 @@
       "userId": 35,
       "items": [
         {
-          "id": "product10",
+          "id": "product09",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order11",
+      "date": "15-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product09",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order01",
+      "date": "10-05-2022",
+      "totalBeforeDiscount": 400000,
+      "totalAfterDiscount": 400000,
+      "status": "Successed",
+      "address": {
+        "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
+        "phone": "0392808996",
+        "name": "Lê Ngọc Minh"
+      },
+      "paymentMethod": "Thanh toán khi nhận hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 36,
+      "items": [
+        {
+          "id": "product02",
+          "quantity": 2,
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
+          "priceBeforeDiscount": 200000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order02",
+      "date": "10-05-2022",
+      "totalBeforeDiscount": 400000,
+      "totalAfterDiscount": 400000,
+      "status": "Pending",
+      "address": {
+        "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
+        "phone": "0392808996",
+        "name": "Lê Ngọc Minh"
+      },
+      "paymentMethod": "Thanh toán khi nhận hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 36,
+      "items": [
+        {
+          "id": "product02",
+          "quantity": 2,
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
+          "priceBeforeDiscount": 200000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order03",
+      "date": "11-05-2022",
+      "totalBeforeDiscount": 400000,
+      "totalAfterDiscount": 400000,
+      "status": "Failed",
+      "address": {
+        "location": "123BE, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",
+        "phone": "0392808996",
+        "name": "Lê Ngọc Minh"
+      },
+      "paymentMethod": "Thanh toán khi nhận hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 36,
+      "items": [
+        {
+          "id": "product03",
+          "quantity": 2,
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "image": [
+            "https://i.ibb.co/Bzps9yB/sp2.png"
+          ],
+          "priceBeforeDiscount": 200000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order04",
+      "date": "12-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product04",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order05",
+      "date": "13-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product05",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order06",
+      "date": "14-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product06",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order07",
+      "date": "14-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product07",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order08",
+      "date": "14-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Failed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product08",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order09",
+      "date": "15-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product09",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order10",
+      "date": "15-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product09",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order11",
+      "date": "15-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Successed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product09",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "image": [
+            "https://i.ibb.co/Cw1fNbx/sp1.png"
+          ],
+          "priceBeforeDiscount": 400000,
+          "priceAfterDiscount": 200000
+        }
+      ]
+    },
+    {
+      "id": "order12",
+      "date": "15-05-2022",
+      "totalBeforeDiscount": 200000,
+      "totalAfterDiscount": 200000,
+      "status": "Failed",
+      "address": {
+        "location": "129/6, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",
+        "phone": "0901397022",
+        "name": "abc"
+      },
+      "paymentMethod": "Chuyển khoản ngân hàng",
+      "shipmentMethod": {
+        "name": "Giao hàng tiết kiệm",
+        "fee": 25000
+      },
+      "userId": 35,
+      "items": [
+        {
+          "id": "product09",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
           "image": [
             "https://i.ibb.co/Cw1fNbx/sp1.png"
