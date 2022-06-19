@@ -187,7 +187,11 @@
           "value": "SILK"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCatePleaterSkirt", "subCateJeanSkirt"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCatePleaterSkirt",
+        "subCateJeanSkirt"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 480000,
@@ -210,12 +214,19 @@
           "value": "COTTON"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCateStrapDress", "subCatePartyDress"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCateStrapDress",
+        "subCatePartyDress"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 480000,
       "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
-      "image": ["https://i.ibb.co/1M2G9md/sp8-sub-01.png", "https://i.ibb.co/QNvrxwV/sp8.png"],
+      "image": [
+        "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
+        "https://i.ibb.co/QNvrxwV/sp8.png"
+      ],
       "configurableOptions": [
         {
           "id": "optColor",
@@ -252,7 +263,11 @@
           "value": "Lụa vân gỗ"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCatePartyDress", "subCateStrapDress"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCatePartyDress",
+        "subCateStrapDress"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 385000,
       "priceAfterDiscount": 370000,
@@ -335,7 +350,10 @@
       "priceBeforeDiscount": 60000,
       "priceAfterDiscount": 60000,
       "desc": "Quần Short Nam Nữ Unisex HEY YOU - Kiểu Quần đùi Thun Cotton Nỉ dày dặn Local Brand Heyyou",
-      "image": ["https://i.ibb.co/5jxbKPd/sp11.png", "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"],
+      "image": [
+        "https://i.ibb.co/5jxbKPd/sp11.png",
+        "https://i.ibb.co/DCgq0bK/sp11-sub-01.png"
+      ],
       "available": 200,
       "sold": 50,
       "isHot": true
@@ -612,12 +630,19 @@
           "value": "Mini"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCatePleaterSkirt", "subCateJeanSkirt"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCatePleaterSkirt",
+        "subCateJeanSkirt"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 105000,
       "priceAfterDiscount": 95000,
       "desc": "kiểu dáng: năng động trẻ trung, dễ kết hợp với các loại trang phục khác, freesize: vì là cạp chun nên ai mặc cũng vừa nha 40-60kg mặc xinh",
-      "image": ["https://i.ibb.co/y5820ZV/sp17-sub-01.png", "https://i.ibb.co/DbwxWhp/sp17.png"],
+      "image": [
+        "https://i.ibb.co/y5820ZV/sp17-sub-01.png",
+        "https://i.ibb.co/DbwxWhp/sp17.png"
+      ],
       "configurableOptions": [
         {
           "id": "optColor",
@@ -658,12 +683,19 @@
           "value": "50cm"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCatePleaterSkirt", "subCateJeanSkirt"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCatePleaterSkirt",
+        "subCateJeanSkirt"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 160000,
       "priceAfterDiscount": 160000,
       "desc": "Phong cách độc đáo, tinh tế bắt mắt, thời trang và quyến rũ",
-      "image": ["https://i.ibb.co/WBw9p7g/sp18-sub-01.png", "https://i.ibb.co/W2B2kJN/sp18.png"],
+      "image": [
+        "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
+        "https://i.ibb.co/W2B2kJN/sp18.png"
+      ],
       "size": ["S", "M", "L"],
       "color": ["white", "black"],
       "configurableOptions": [
@@ -723,12 +755,19 @@
           "value": "Da Nang"
         }
       ],
-      "categories": ["cateDressAndSkirt", "subCatePleaterSkirt", "subCateJeanSkirt"],
+      "categories": [
+        "cateDressAndSkirt",
+        "subCatePleaterSkirt",
+        "subCateJeanSkirt"
+      ],
       "status": "Available",
       "priceBeforeDiscount": 150000,
       "priceAfterDiscount": 150000,
       "desc": "Chất jeans dày dặn không co dãn",
-      "image": ["https://i.ibb.co/ZT3tsFf/sp19-sub-01.png", "https://i.ibb.co/RScbfH1/sp19.png"],
+      "image": [
+        "https://i.ibb.co/ZT3tsFf/sp19-sub-01.png",
+        "https://i.ibb.co/RScbfH1/sp19.png"
+      ],
       "configurableOptions": [
         {
           "id": "optColor",
@@ -776,17 +815,17 @@
   ],
   "user": [
     {
-      "id": 1,
-      "firstname": "Gweneth",
-      "lastname": "Zannotelli",
-      "email": "gzannotelli0@booking.com",
-      "address": "78 Myrtle Terrace",
+      "id": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "firstname": "Lê ",
+      "lastname": "Ngọc Minh",
+      "email": "xapxichum@gmail.com",
+      "address": "12B Nguyễn Trung Trực",
       "gender": "Female",
-      "phonenumber": "+33 405 112 5051",
+      "phonenumber": "0392808994",
       "education": "Universidad Centroamericana",
       "identify": "84-4125332",
       "avatar": "https://robohash.org/enimdistinctioin.png?size=200x300&set=set1",
-      "role": "Staff"
+      "role": "Admin"
     },
     {
       "id": 2,
