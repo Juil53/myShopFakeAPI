@@ -1023,26 +1023,36 @@
   ],
   "carts": [
     {
+      "uid": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "id": "cart01",
-      "products": [
+      "productList": [
         {
-          "id": "product01",
-          "quantity": 1,
-          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
-          "priceBeforeDiscount": 400000,
-          "priceAfterDiscount": 200000
-        },
-        {
-          "id": "product02",
+          "available": 20,
+          "brand": "Quảng Châu",
+          "cartItemID": 1655785348805,
+          "categories": [
+            "cateDressAndSkirt",
+            "subCateStrapDress",
+            "subCatePartyDress"
+          ],
+          "desc": "Thiết kế tỉ mỉ, đường may sắc nét",
+          "id": "product08",
+          "image": [
+            "https://i.ibb.co/1M2G9md/sp8-sub-01.png",
+            "https://i.ibb.co/QNvrxwV/sp8.png"
+          ],
+          "isHot": true,
+          "name": "Váy trễ vai tay dài 3 tầng phối chun eo",
+          "optionSelected": { "optColor": "beige-colored" },
+          "priceAfterDiscount": 480000,
+          "priceBeforeDiscount": 500000,
           "quantity": 2,
-          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
-          "priceBeforeDiscount": 200000,
-          "priceAfterDiscount": 200000
+          "sold": 20,
+          "status": "Available",
+          "totalPrice": 960000
         }
       ],
-      "userID": "9"
+      "totalMoney": 960000
     }
   ],
   "orders": [
@@ -1864,7 +1874,7 @@
       "password": "123456",
       "email": "ngocminh.2126@gmail.com",
       "id": "b6maCCgAZMeTA0HkigxYL51yEdd2",
-      "image": "https://i.ibb.co/4pGF0yV/default-user.png"
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GhRyHvpqQOCfcCvAOTDWaO7SGV-5412tw5w3wsD0Q=s96-c"
     }
   ]
 }
