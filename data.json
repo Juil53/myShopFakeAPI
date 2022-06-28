@@ -895,99 +895,22 @@
       "isNew": true
     },
     {
-      "name": "test",
-      "brand": "",
-      "attributes": [
-        {
-          "name": "Origin",
-          "value": "Viet Nam"
-        }
-      ],
-      "categories": [],
-      "desc": "",
-      "status": "",
-      "image": [
-        "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Favatar2.jpg?alt=media&token=4fe657bf-c1bb-4da9-9e31-5da220c4e75a",
-        "https://firebasestorage.googleapis.com/v0/b/myshop-pivot.appspot.com/o/images%2Fbgmoviedetail.jpg?alt=media&token=6c956f77-db98-4d9d-ba42-ef247232f2b6"
-      ],
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "7Ai7vf-"
-    },
-    {
       "name": "test 1",
       "brand": "",
+      "options": [],
       "attributes": [],
       "categories": [],
       "desc": "",
       "status": "",
       "image": [
-        "https://firebasestorage.googleapis.com/v0/b/my-shop-auth.appspot.com/o/images%2F4326438.jpg?alt=media&token=8b92759e-e694-441c-87e0-f7d998bdeb0f"
+        "https://firebasestorage.googleapis.com/v0/b/my-shop-auth.appspot.com/o/images%2Fbgmoviedetail.jpg?alt=media&token=1d724b91-7314-4f87-a3d8-c0d4da8a1313"
       ],
       "available": 0,
       "priceBeforeDiscount": 0,
       "priceAfterDiscount": 0,
       "isHot": false,
       "isNew": false,
-      "id": "cnJ-joR"
-    },
-    {
-      "name": "test 2",
-      "brand": "",
-      "attributes": [],
-      "categories": [],
-      "desc": "",
-      "status": "",
-      "image": [
-        "https://firebasestorage.googleapis.com/v0/b/my-shop-auth.appspot.com/o/images%2Favatar2.jpg?alt=media&token=c7ca5ef1-cd1d-49d3-8f62-0b1cfc244d88"
-      ],
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "PWwHpRZ"
-    },
-    {
-      "name": "test 3",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        "catePants"
-      ],
-      "desc": "",
-      "status": "",
-      "image": [
-        "https://firebasestorage.googleapis.com/v0/b/my-shop-auth.appspot.com/o/images%2F25504.jpg?alt=media&token=1764d6fa-4862-47ae-9c35-1682dd6b3711"
-      ],
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "RqMR2p4"
-    },
-    {
-      "name": "test 3",
-      "brand": "",
-      "attributes": [],
-      "categories": [
-        "subCateKaki"
-      ],
-      "desc": "",
-      "status": "",
-      "image": [
-        "https://firebasestorage.googleapis.com/v0/b/my-shop-auth.appspot.com/o/images%2F25504.jpg?alt=media&token=1b0347e0-2eb4-4720-88cf-23a6afd6886b"
-      ],
-      "available": 0,
-      "priceBeforeDiscount": 0,
-      "priceAfterDiscount": 0,
-      "isHot": false,
-      "isNew": false,
-      "id": "LncSJ_Y"
+      "id": "P10WD__"
     }
   ],
   "users": [
@@ -1016,6 +939,19 @@
       "avatar": "https://robohash.org/sitquiaquisquam.png?size=200x300&set=set1",
       "role": "Staff",
       "id": "WESmHBram7erDzFbjEsWYLtqSBs1"
+    },
+    {
+      "firstname": "Đinh Văn Hữu",
+      "lastname": "Nghĩa",
+      "password": "awdawdawd",
+      "email": "dvhnghia53@gmail.com",
+      "address": "7 Nguyễn Thiện Thuật, P Lộc Thọ, Nha Trang, Khánh Hòa",
+      "gender": "Female",
+      "education": "",
+      "identify": "",
+      "phonenumber": "0983505905",
+      "avatar": "",
+      "id": "MPem1Ep6Z0OBmM7KJu8PDgsv65V2"
     }
   ],
   "categories": [
