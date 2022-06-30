@@ -925,6 +925,49 @@
       "id": "cartxlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "productList": [
         {
+          "id": "product02",
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "brand": "Giày cao cấp",
+          "categories": ["cateShoes", "subCateSlippers"],
+          "status": "Available",
+          "priceBeforeDiscount": 200000,
+          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "cartItemID": 1655903736130,
+          "priceAfterDiscount": 200000,
+          "optionSelected": {},
+          "quantity": 1,
+          "totalPrice": 200000
+        },
+        {
+          "id": "product07",
+          "name": "Váy thời trang công sở văn phòng thanh lịch tôn dáng",
+          "brand": "Hàng công sở cao cấp",
+          "categories": [
+            "cateDressAndSkirt",
+            "subCatePleaterSkirt",
+            "subCateJeanSkirt"
+          ],
+          "status": "Available",
+          "priceBeforeDiscount": 500000,
+          "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
+          "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
+          "available": 15,
+          "isHot": true,
+          "cartItemID": 1655947788330,
+          "priceAfterDiscount": 480000,
+          "optionSelected": {},
+          "quantity": 1,
+          "totalPrice": 480000
+        }
+      ],
+      "totalAmount": 680000
+    },
+    {
+      "id": "cartDnZOwPCqb6RfAn3q1wAjR0dipsH3",
+      "uid": "DnZOwPCqb6RfAn3q1wAjR0dipsH3",
+      "productList": [
+        {
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
           "brand": "UK",
@@ -979,6 +1022,66 @@
         }
       ],
       "totalAmount": 880000
+    },
+    {
+      "id": "cartundefined",
+      "productList": [
+        {
+          "id": "product01",
+          "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+          "brand": "UK",
+          "categories": ["cateShoes", "subCateSportShoes"],
+          "status": "Available",
+          "priceBeforeDiscount": 400000,
+          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
+          "available": 100,
+          "sold": 50,
+          "isHot": true,
+          "cartItemID": 1656561531342,
+          "priceAfterDiscount": 200000,
+          "optionSelected": {},
+          "quantity": 2,
+          "totalPrice": 400000
+        },
+        {
+          "id": "product02",
+          "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
+          "brand": "Giày cao cấp",
+          "categories": ["cateShoes", "subCateSlippers"],
+          "status": "Available",
+          "priceBeforeDiscount": 200000,
+          "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
+          "cartItemID": 1655903736130,
+          "priceAfterDiscount": 200000,
+          "optionSelected": {},
+          "quantity": 1,
+          "totalPrice": 200000
+        },
+        {
+          "id": "product07",
+          "name": "Váy thời trang công sở văn phòng thanh lịch tôn dáng",
+          "brand": "Hàng công sở cao cấp",
+          "categories": [
+            "cateDressAndSkirt",
+            "subCatePleaterSkirt",
+            "subCateJeanSkirt"
+          ],
+          "status": "Available",
+          "priceBeforeDiscount": 500000,
+          "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
+          "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
+          "available": 15,
+          "isHot": true,
+          "cartItemID": 1655947788330,
+          "priceAfterDiscount": 480000,
+          "optionSelected": {},
+          "quantity": 1,
+          "totalPrice": 480000
+        }
+      ],
+      "totalAmount": 1080000
     }
   ],
   "orders": [
@@ -998,7 +1101,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "userId": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "email": "xapxichum@gmail.com",
       "items": [
         {
@@ -1027,7 +1130,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "userId": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "email": "xapxichum@gmail.com",
       "items": [
         {
@@ -1056,7 +1159,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "userId": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "email": "xapxichum@gmail.com",
       "items": [
         {
@@ -1085,7 +1188,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "userId": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "email": "xapxichum@gmail.com",
       "items": [
         {
@@ -1113,7 +1216,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"xlWwtCGUmbWOZGb49l6gkD0IzIp2",
+      "userId": "xlWwtCGUmbWOZGb49l6gkD0IzIp2",
       "email": "xapxichum@gmail.com",
       "items": [
         {
@@ -1141,7 +1244,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1169,7 +1272,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1197,7 +1300,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1225,7 +1328,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1253,7 +1356,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1281,7 +1384,7 @@
         "name": "Giao hàng tiết kiệm",
         "fee": 25000
       },
-      "userId":"WESmHBram7erDzFbjEsWYLtqSBs1",
+      "userId": "WESmHBram7erDzFbjEsWYLtqSBs1",
       "email": "nghiadvh@gmail.com",
       "items": [
         {
@@ -1476,23 +1579,7 @@
       "email": "xapxichum@gmail.com",
       "image": "https://i.ibb.co/q1M6VgH/278056968-386257913382497-728907937423709112-n.jpg",
       "phoneNumber": "0392808994",
-      "password": "123456",
-      "address": [
-        {
-          "id": "xlWwtCGUmbWOZGb49l6gkD0IzIp21",
-          "name": "Lê Minh Thư",
-          "address": {
-            "province": {
-              "id": 284,
-              "name": "Bến Tre"
-            },
-            "district": "Châu Thành",
-            "ward": "Quới Thành",
-            "detail": "20 tổ 3 ấp Phú Phong"
-          },
-          "phoneNumber": "0392808994"
-        }
-      ]
+      "password": "123456"
     },
     {
       "displayName": "Lê Ngọc Minh",
