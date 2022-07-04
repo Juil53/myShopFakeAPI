@@ -18,17 +18,12 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "cateShoes",
-        "subCateSportShoes"
-      ],
+      "categories": ["cateShoes", "subCateSportShoes"],
       "status": "Available",
       "priceBeforeDiscount": 400000,
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/Cw1fNbx/sp1.png"
-      ],
+      "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
       "available": 100,
       "sold": 50,
       "isHot": true
@@ -51,17 +46,12 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "cateShoes",
-        "subCateSlippers"
-      ],
+      "categories": ["cateShoes", "subCateSlippers"],
       "status": "Available",
       "priceBeforeDiscount": 200000,
       "priceAfterDiscount": 200000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/Bzps9yB/sp2.png"
-      ],
+      "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
       "available": 10
     },
     {
@@ -82,17 +72,12 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateTshirt"
-      ],
+      "categories": ["cateShirt", "subCateTshirt"],
       "status": "Available",
       "priceBeforeDiscount": 100000,
       "priceAfterDiscount": 80000,
       "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-      "image": [
-        "https://i.ibb.co/QjjdqgR/sp3.png"
-      ],
+      "image": ["https://i.ibb.co/QjjdqgR/sp3.png"],
       "available": 100
     },
     {
@@ -113,17 +98,12 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateSomi"
-      ],
+      "categories": ["cateShirt", "subCateSomi"],
       "status": "Available",
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 450000,
       "desc": "Áo JEAN chợ trời, sale off ko phanh",
-      "image": [
-        "https://i.ibb.co/djcQ0Zv/sp4.png"
-      ],
+      "image": ["https://i.ibb.co/djcQ0Zv/sp4.png"],
       "available": 10
     },
     {
@@ -140,17 +120,12 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "catePants",
-        "subCateJeans"
-      ],
+      "categories": ["catePants", "subCateJeans"],
       "status": "Available",
       "priceBeforeDiscount": 300000,
       "priceAfterDiscount": 250000,
       "desc": " Quần ống loe cạp cao legging dáng dài, Quần legging nữ ôm ống loe dáng dài",
-      "image": [
-        "https://i.ibb.co/m0rZ9xD/sp5.png"
-      ],
+      "image": ["https://i.ibb.co/m0rZ9xD/sp5.png"],
       "available": 30
     },
     {
@@ -167,10 +142,7 @@
           "value": "SILK"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateJacket"
-      ],
+      "categories": ["cateShirt", "subCateJacket"],
       "status": "Available",
       "priceBeforeDiscount": 150000,
       "priceAfterDiscount": 135000,
@@ -184,10 +156,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "white",
-            "beige-colored"
-          ]
+          "values": ["white", "beige-colored"]
         }
       ],
       "configurableProducts": [
@@ -227,9 +196,7 @@
       "priceBeforeDiscount": 500000,
       "priceAfterDiscount": 480000,
       "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-      "image": [
-        "https://i.ibb.co/KN82k0g/sp7.png"
-      ],
+      "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
       "available": 15,
       "isHot": true
     },
@@ -264,10 +231,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "white",
-            "beige-colored"
-          ]
+          "values": ["white", "beige-colored"]
         }
       ],
       "configurableProducts": [
@@ -317,11 +281,7 @@
         {
           "id": "optSize",
           "name": "Size",
-          "values": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "values": ["M", "L", "XL"]
         }
       ],
       "configurableProducts": [
@@ -357,11 +317,7 @@
           "value": "Tuypsi Hàn Quốc"
         }
       ],
-      "categories": [
-        "catePants",
-        "subCateJeans",
-        "subCateKaki"
-      ],
+      "categories": ["catePants", "subCateJeans", "subCateKaki"],
       "status": "Available",
       "priceBeforeDiscount": 85000,
       "priceAfterDiscount": 85000,
@@ -389,11 +345,7 @@
           "value": "COTTON"
         }
       ],
-      "categories": [
-        "catePants",
-        "subCateJeans",
-        "subCateKaki"
-      ],
+      "categories": ["catePants", "subCateJeans", "subCateKaki"],
       "status": "Available",
       "priceBeforeDiscount": 60000,
       "priceAfterDiscount": 60000,
@@ -424,17 +376,12 @@
           "value": "OVERSIZED"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateTshirt"
-      ],
+      "categories": ["cateShirt", "subCateTshirt"],
       "status": "Available",
       "priceBeforeDiscount": 120000,
       "priceAfterDiscount": 115000,
       "desc": "Với chất liệu thun cotton dày mịn được lựa chọn kĩ lưỡng để phù hợp với mọi hoàn cảnh. Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì. Form áo unisex nam nữ đều mặc được.",
-      "image": [
-        "https://i.ibb.co/1ntHrNB/sp12.png"
-      ],
+      "image": ["https://i.ibb.co/1ntHrNB/sp12.png"],
       "available": 200,
       "isHot": true
     },
@@ -456,10 +403,7 @@
           "value": "80cm"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateSomi"
-      ],
+      "categories": ["cateShirt", "subCateSomi"],
       "status": "Available",
       "priceBeforeDiscount": 200000,
       "priceAfterDiscount": 119000,
@@ -474,12 +418,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "blue",
-            "red",
-            "dark-green",
-            "pink"
-          ]
+          "values": ["blue", "red", "dark-green", "pink"]
         }
       ],
       "configurableProducts": [
@@ -522,11 +461,7 @@
           "value": "Long sleeve"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateSomi",
-        "subCateJacket"
-      ],
+      "categories": ["cateShirt", "subCateSomi", "subCateJacket"],
       "status": "Available",
       "priceBeforeDiscount": 250000,
       "priceAfterDiscount": 250000,
@@ -558,10 +493,7 @@
           "value": "Long sleeve"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateJacket"
-      ],
+      "categories": ["cateShirt", "subCateJacket"],
       "status": "Available",
       "priceBeforeDiscount": 350000,
       "priceAfterDiscount": 300000,
@@ -575,21 +507,12 @@
         {
           "id": "optSize",
           "name": "Size",
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
+          "values": ["S", "M", "L", "XL"]
         },
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "black",
-            "brown",
-            "white"
-          ]
+          "values": ["black", "brown", "white"]
         }
       ],
       "configurableProducts": [
@@ -647,10 +570,7 @@
           "value": "THUN"
         }
       ],
-      "categories": [
-        "cateShirt",
-        "subCateTshirt"
-      ],
+      "categories": ["cateShirt", "subCateTshirt"],
       "status": "Available",
       "priceBeforeDiscount": 90000,
       "priceAfterDiscount": 90000,
@@ -666,12 +586,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "red",
-            "blue",
-            "white",
-            "black"
-          ]
+          "values": ["red", "blue", "white", "black"]
         }
       ],
       "configurableProducts": [
@@ -732,10 +647,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "white",
-            "black"
-          ]
+          "values": ["white", "black"]
         }
       ],
       "configurableProducts": [
@@ -784,32 +696,18 @@
         "https://i.ibb.co/WBw9p7g/sp18-sub-01.png",
         "https://i.ibb.co/W2B2kJN/sp18.png"
       ],
-      "size": [
-        "S",
-        "M",
-        "L"
-      ],
-      "color": [
-        "white",
-        "black"
-      ],
+      "size": ["S", "M", "L"],
+      "color": ["white", "black"],
       "configurableOptions": [
         {
           "id": "optSize",
           "name": "Size",
-          "values": [
-            "S",
-            "M",
-            "L"
-          ]
+          "values": ["S", "M", "L"]
         },
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "black",
-            "white"
-          ]
+          "values": ["black", "white"]
         }
       ],
       "configurableProducts": [
@@ -874,10 +772,7 @@
         {
           "id": "optColor",
           "name": "Color",
-          "values": [
-            "blue",
-            "black"
-          ]
+          "values": ["blue", "black"]
         }
       ],
       "configurableProducts": [
@@ -1055,9 +950,7 @@
           "status": "Available",
           "priceBeforeDiscount": 500000,
           "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-          "image": [
-            "https://i.ibb.co/KN82k0g/sp7.png"
-          ],
+          "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
           "available": 15,
           "isHot": true,
           "cartItemID": 1655947788330,
@@ -1070,16 +963,11 @@
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
           "brand": "UK",
-          "categories": [
-            "cateShoes",
-            "subCateSportShoes"
-          ],
+          "categories": ["cateShoes", "subCateSportShoes"],
           "status": "Available",
           "priceBeforeDiscount": 400000,
           "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "available": 100,
           "sold": 50,
           "isHot": true,
@@ -1093,8 +981,8 @@
       "totalAmount": 880000
     },
     {
-      "id": "carttYPe3Ojf1vdNDmtxv9nd0jKO56O2",
-      "uid": "tYPe3Ojf1vdNDmtxv9nd0jKO56O2",
+      "id": "cartb6maCCgAZMeTA0HkigxYL51yEdd2",
+      "uid": "b6maCCgAZMeTA0HkigxYL51yEdd2",
       "productList": [
         {
           "id": "product07",
@@ -1108,9 +996,7 @@
           "status": "Available",
           "priceBeforeDiscount": 500000,
           "desc": "Được may bằng vải tuyết mưa cao cấp : không quá dày cũng không quá mỏng, độ co giãn vừa phải bền màu. Đặc biệt mặc không nhăn và không bám lông, bụi. Mặc vào cực kì thoáng mát, thoải mái, không bị sờn mốc hay xù lông sau một thời gian dài sử dụng.",
-          "image": [
-            "https://i.ibb.co/KN82k0g/sp7.png"
-          ],
+          "image": ["https://i.ibb.co/KN82k0g/sp7.png"],
           "available": 15,
           "isHot": true,
           "cartItemID": 1655947788330,
@@ -1123,16 +1009,11 @@
           "id": "product01",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
           "brand": "UK",
-          "categories": [
-            "cateShoes",
-            "subCateSportShoes"
-          ],
+          "categories": ["cateShoes", "subCateSportShoes"],
           "status": "Available",
           "priceBeforeDiscount": 400000,
           "desc": "Giày thể thao nam đẹp da màu nâu cao cấp, thanh lịch từ thương hiệu Converse®,Chất liệu giày bằng da bò mềm với chi tiết mũi giày cap-toe,Mắt xỏ dây âm với dây cột nylon,Lót trong bằng da thoáng khí tự nhiên,Đệm lót giày bằng da bọc thoải mái và hỗ trợ chân,Đế ngoài băng cao su hấp thụ sốc tốt và bám tốt trên mọi bề mặt",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "available": 100,
           "sold": 50,
           "isHot": true,
@@ -1170,9 +1051,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "priceBeforeDiscount": 200000,
           "priceAfterDiscount": 200000
         }
@@ -1201,9 +1080,7 @@
           "id": "product02",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "priceBeforeDiscount": 200000,
           "priceAfterDiscount": 200000
         }
@@ -1232,9 +1109,7 @@
           "id": "product03",
           "quantity": 2,
           "name": "Giày da cá sấu thương hiệu cao cấp từ Nhật Bản anh Việt Mỹ",
-          "image": [
-            "https://i.ibb.co/Bzps9yB/sp2.png"
-          ],
+          "image": ["https://i.ibb.co/Bzps9yB/sp2.png"],
           "priceBeforeDiscount": 200000,
           "priceAfterDiscount": 200000
         }
@@ -1262,9 +1137,7 @@
         {
           "id": "product04",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1292,9 +1165,7 @@
         {
           "id": "product05",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1322,9 +1193,7 @@
         {
           "id": "product06",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1352,9 +1221,7 @@
         {
           "id": "product07",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1382,9 +1249,7 @@
         {
           "id": "product08",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1412,9 +1277,7 @@
         {
           "id": "product09",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1442,9 +1305,7 @@
         {
           "id": "product09",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
@@ -1472,9 +1333,7 @@
         {
           "id": "product09",
           "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
-          "image": [
-            "https://i.ibb.co/Cw1fNbx/sp1.png"
-          ],
+          "image": ["https://i.ibb.co/Cw1fNbx/sp1.png"],
           "priceBeforeDiscount": 400000,
           "priceAfterDiscount": 200000
         }
